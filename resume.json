@@ -38,7 +38,7 @@
       "position": "Analyst, Programmer III",
       "website": "http://www.hunterindustries.com/",
       "startDate": "2014-01-06",
-      "endDate": "",
+      "endDate": "3000-01-01",
       "summary": "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their driven for innovation has kept them as one of the top performers in their industry.",
       "highlights": [
         "Worked on a system that can detect a web application’s interface and then verify that user roles are configured correctly for that interface.",
@@ -74,7 +74,7 @@
       "company": "Airgain Inc.",
       "position": "Senior Software Engineer",
       "website": "http://www.airgain.com/",
-      "startDate": "2008-07",
+      "startDate": "2008-07-01",
       "endDate": "2011-05-02",
       "summary": "Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated innovation in the field which makes them one of most competitive in the field.",
       "highlights": [
@@ -86,8 +86,8 @@
       "company": "irdeto",
       "position": "Senior Software Engineer",
       "website": "http://www.irdeto.com/",
-      "startDate": "2006-09",
-      "endDate": "2008-07",
+      "startDate": "2006-09-01",
+      "endDate": "2008-07-01",
       "summary": "irdeto provides software and hardware solutions to media and media distribution companies.",
       "highlights": [
         "Designed and implemented the billing engine for a Customer Sales, Promotions, and Billing product aimed at cable providers.",
@@ -99,8 +99,8 @@
       "company": "Siedcon Inc",
       "position": "Senior Applications Engineer",
       "website": "http://www.seidcon.com/",
-      "startDate": "1998-01",
-      "endDate": "2006-09",
+      "startDate": "1998-01-01",
+      "endDate": "2006-09-01",
       "summary": "Siedcon Inc. is dedicated to being in the fore front of digital security. They provide an outside consultancy to government agencies. The provide everything from penetration testing to the design of physical locations.",
       "highlights": [
         "Designed and implemented an automated way to generate large formatted documents that encapsulated the work of very specialized experts. This allowed SEIDCON to become so competitive that their leading competitor sub-contracted SEIDCON to do the actual work.",
@@ -114,8 +114,8 @@
       "organization": "Society for Creative Anachronism (SCA), Barony of Calafia",
       "position": "Youth Officer",
       "website": "http://www.calafia.org/",
-      "startDate": "2014-09",
-      "endDate": "",
+      "startDate": "2014-09-01",
+      "endDate": "2016-01-01",
       "summary": "Group dedicated to the promotion of Medieval history.",
       "highlights": [
         "Responsible for coordinating, overseeing and organizing youth events intended to excite and educate."
@@ -127,8 +127,8 @@
       "institution": "ITT Technical Institute",
       "area": "Electrical and Electronics Engineering",
       "studyType": "Bachelor",
-      "startDate": "1994",
-      "endDate": "2002"
+      "startDate": "1994-01-01",
+      "endDate": "1998-01-01"
     }
   ],
   "awards": [
