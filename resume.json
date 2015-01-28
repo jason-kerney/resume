@@ -18,16 +18,16 @@
       {
         "network": "Twitter",
         "username": "@JasonKerney",
-        "url": ""
+        "url": "https://twitter.com/JasonKerney"
       },
       {
         "network": "Linked In",
-        "username": "Jason@teamkerney.com",
+        "username": "Jason Kerney",
         "url": "www.linkedin.com/in/jasonkerney/"
       },
       {
         "network": "Google Plus",
-        "username": "JasonKerney",
+        "username": "Jason Kerney",
         "url": "https://plus.google.com/u/0/+JasonKerney"
       }
     ]
