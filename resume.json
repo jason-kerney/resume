@@ -1,139 +1,182 @@
 {
   "basics": {
-    "name": "Steven Edouard",
-    "label": "Developer Evangelist",
-    "picture": "https://scontent-b-sjc.xx.fbcdn.net/hphotos-prn1/t1.0-9/603953_10151522578258327_946466229_n.jpg ",
-    "email": "steven.edouard1@gmail.com",
-    "website": "http://stevenedouard.com",
-    "summary": "I am a Developer Evangelist for Microsoft. Every day I work to empower individuals to build awesome things. I eventually hope to pursue a role where I can have high impact on a product.",
+    "name": "Robert “Jason” Kerney",
+    "label": "Programmer",
+    "picture": "",
+    "email": "jason@teamkerney.com",
+    "phone": "(858) 822-9570",
+    "website": "www.teamkerney.com",
+    "summary": "Jason first started programming in 1998 when he purchased a Commodore64 and learned Commodore Basic.  He quickly discovered that evenings and weekends disappeared. In high school Jason took a programming class where he discovered that he knew more than the teacher. Jason has always been self-educated and self-motivated about programming.",
     "location": {
-      "city": "San Francisco",
+      "address": "10508 Caminito Westchester",
+      "postalCode": "CA 92126",
+      "city": "San Diego",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Resume Source",
-        "url": "http://github.com/sedouard/resume",
-        "username": "This Resume is built from this Github Repo"
-      },
-      {
         "network": "Twitter",
-        "username": "sedouard",
-        "url": "http://twitter.com/sedouard"
+        "username": "@JasonKerney",
+        "url": ""
       },
       {
-        "network": "Github",
-        "username": "sedouard",
-        "url": "https://github.com/sedouard"
+        "network": "Linked In",
+        "username": "Jason@teamkerney.com",
+        "url": "www.linkedin.com/in/jasonkerney/"
+      },
+      {
+        "network": "Google Plus",
+        "username": "JasonKerney",
+        "url": "https://plus.google.com/u/0/+JasonKerney"
       }
     ]
   },
   "work": [
     {
-      "company": "Microsoft",
-      "position": "Developer Evangelist",
-      "website": "http://microsoft.com",
-      "startDate": "2014-03-04",
-      "summary": "Responsible for increasing adoption of Microsoft developer platforms.",
+      "company": "Hunter Industries",
+      "position": "Analyst, Programmer III",
+      "website": "http://www.hunterindustries.com/",
+      "startDate": "2014-01-06",
+      "endDate": "",
+      "summary": "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their driven for innovation has kept them as one of the top performers in their industry.",
       "highlights": [
-        "Created many technical blog posts focusing on cloud and web development with Microsoft tech",
-        "Successfully won Techcrunch Disrupt Hardware Sponsor Award",
-        "Delivered dozens of original technical presentations from high school to pro developers",
-        "Went from 12 to >100 average unique daily website views",
-        "Authored 2 articles on MSDN magazine"
+        "Worked on a system that can detect a web application’s interface and then verify that user roles are configured correctly for that interface.",
+        "Helped start an internal user group to spread knowledge about beneficial software practices used through-out the company."
       ]
     },
     {
-      "company": "Microsoft",
-      "position": "Software Development Engineer in Test, Common Language Runtime",
-      "website": "http://www.microsoft.com/net",
-      "startDate": "2012-01-22",
-      "endDate": "2014-03-04",
-      "summary": "Responsible for integration, dynamic testing and diagnostics of the Common Language Runtime.",
+      "company": "Bactis Inc.",
+      "position": "Scrum Master, Senior Programmer",
+      "website": "http://www.bactes.com/",
+      "startDate": "2011-05-02",
+      "endDate": "2013-12-20",
+      "summary": "Bactes Inc. specializes in the handling of release of medical records for hospitals, clinics and doctors. They take-on the liability risk and paperwork overhead of this task so that medical facilities do not have to.",
       "highlights": [
-        "Created innovative test validations and infrastructure for Microsoft .NET Runtime debugger and diagnostics APIs consumed by Visual Studio ",
-        "Extended Visual Studio Test Explorer it to run complex end-to-end scenario tests",
-        "Assisted in customer on-boarding to .NET 4.5.1 by syncing with feature teams to diagnose issues",
-        "Drove product test results and collaborated with various feature teams across .NET to drive validation pass rates"
+        "Saved a failed legacy application. The application was delivered to internal customers but had failed to be successfully modified in 5 years. I was able to bring the application up to weekly deploys that included not only bug fixes but also new features.",
+        "Fixed a broken distributed system that allowed for medical records to be transferred in a secure manor back to headquarters for processing.",
+        "Worked to provide support and guidance during their initial Agile Transformation."
       ]
     },
     {
-      "company": "Lockheed Martin Mission Systems",
-      "position": "Software Engineer Intern (4 summers)",
-      "website": "http://www.lockheedmartin.com",
-      "startDate": "2008-01-22",
-      "endDate": "2011-08-01",
-      "summary": "Obtained critical experience during college on software development for mission-critical scenarios.",
+      "company": "Neodigm Inc.",
+      "position": "Co-Founder",
+      "website": "",
+      "startDate": "2010-08-01",
+      "endDate": "2011-05-02",
+      "summary": "Neodigm was dedicated to helping impoverished cities by partnering with Schools to write educational grants. These grants tended to focus on professional development for teachers teaching in those school districts.",
       "highlights": [
-        "Designed system requirements for autonomous underwater vehicle ",
-        "Designed and implemented features on common software for use with multiple vehicles ",
-        "Performed software cost estimates",
-        "Implemented software features for sonar system displays"
+        "Used skills and tools from software development to allow our team of grant writers to have one of the highest success rates in the nation.",
+        "Used concepts from Agile and Lean development to guide our teams to working very effectively together."
+      ]
+    },
+    {
+      "company": "Airgain Inc.",
+      "position": "Senior Software Engineer",
+      "website": "http://www.airgain.com/",
+      "startDate": "2008-07",
+      "endDate": "2011-05-02",
+      "summary": "Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated innovation in the field which makes them one of most competitive in the field.",
+      "highlights": [
+        "Helped design an automated test system for testing of hardware.",
+        "Helped design an embedded driver for their wireless antenna’s that reduced dropped packets."
+      ]
+    },
+    {
+      "company": "irdeto",
+      "position": "Senior Software Engineer",
+      "website": "http://www.irdeto.com/",
+      "startDate": "2006-09",
+      "endDate": "2008-07",
+      "summary": "irdeto provides software and hardware solutions to media and media distribution companies.",
+      "highlights": [
+        "Designed and implemented the billing engine for a Customer Sales, Promotions, and Billing product aimed at cable providers.",
+        "Designed and implemented the security architecture for a Customer Sales, Promotions, and Billing product aimed at cable providers.",
+        "Part of the “Fire Fighter” team that had a mandated 24 hour turnaround time for critical bugs discovered in a Customer Sales, Promotions, and Billing product aimed at cable providers. This product had 7 teams of 6 programmers working on it."
+      ]
+    },
+    {
+      "company": "Siedcon Inc",
+      "position": "Senior Applications Engineer",
+      "website": "http://www.seidcon.com/",
+      "startDate": "1998-01",
+      "endDate": "2006-09",
+      "summary": "Siedcon Inc. is dedicated to being in the fore front of digital security. They provide an outside consultancy to government agencies. The provide everything from penetration testing to the design of physical locations.",
+      "highlights": [
+        "Designed and implemented an automated way to generate large formatted documents that encapsulated the work of very specialized experts. This allowed SEIDCON to become so competitive that their leading competitor sub-contracted SEIDCON to do the actual work.",
+        "Discovered that SEICON qualified to become a Microsoft partner and lead the effort to ensure that it happened.",
+        "Responsible for reviewing development technologies and determining their use within the company."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "TEALS",
-      "position": "Teacher",
-      "website": "http://tealsk12.org",
-      "startDate": "2012-07-01",
-      "endDate": "2013-05-05",
-      "summary": "High school Teacher for an inner-city computer science class.",
+      "organization": "Society for Creative Anachronism (SCA), Barony of Calafia",
+      "position": "Youth Officer",
+      "website": "http://www.calafia.org/",
+      "startDate": "2014-09",
+      "endDate": "",
+      "summary": "Group dedicated to the promotion of Medieval history.",
       "highlights": [
-        "Featured in the International New York Times"
+        "Responsible for coordinating, overseeing and organizing youth events intended to excite and educate."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Florida",
-      "area": "Computer Engineering",
+      "institution": "ITT Technical Institute",
+      "area": "Electrical and Electronics Engineering",
       "studyType": "Bachelor",
-      "startDate": "2007-08-01",
-      "endDate": "2011-12-01",
-      "gpa": "3.47"
+      "startDate": "1994",
+      "endDate": "2002"
     }
   ],
   "awards": [
     {
-      "name": "Visual Studio Team Excellence Light House Award",
-      "date": "2013-04-01",
-      "awarder": "Visual Studio Team - Microsoft",
-      "summary": "Given to member of the Visual Studio team who goes above and beyond their role."
+      "title": "Speaker at Agile Alliance Conference",
+      "date": "2010-08-13",
+      "awarder": "Agile Alliance",
+      "summary": "The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development."
+    },
+    {
+      "title": "Speaker at Agile Alliance Conference",
+      "date": "2014-07-28",
+      "awarder": "Agile Alliance",
+      "summary": "The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development."
     }
   ],
   "skills": [
     {
-      "name": "C# and .NET",
-      "level": "Master",
-      "keywords": [
-        "C#"
-      ]
-    },
-    {
-      "name": "Node.js",
+      "name": "Web Development",
       "level": "Intermediate",
       "keywords": [
-        "javascript",
-        "express"
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Microsoft MVC"
       ]
     },
     {
-      "name": "Cloud Services",
+      "name": "Software Development",
       "level": "Master",
       "keywords": [
-        "PaaS",
-        "Storage",
-        "APIs"
+        "SOLID",
+        "Test Driven Design (TDD)",
+        "Behavior Driven Development (BDD)",
+        "Legacy Code Remediation",
+        "ANSI SQL",
+        "Data Normalization"
       ]
     },
     {
-      "name": "iOS Application Development",
-      "level": "Intermediate",
+      "name": "Microsoft Development",
+      "level": "Master",
       "keywords": [
-        "Objective-C"
+        ".Net Framework",
+        "C#",
+        "F#",
+        "Linq",
+        "MVC"
       ]
     }
   ],
@@ -141,6 +184,47 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Writing",
+      "keywords": [
+        "Fiction"
+      ]
+    },
+    {
+      "name": "My Kids",
+      "keywords": [
+        "Teaching Programming",
+        "Sports",
+        "Teaching",
+        "School"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "New Languages",
+        "Functional",
+        "Teaching",
+        "Mentoring",
+        "Learning"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Woody Zuill",
+      "reference": "Jason is a great programmer and has a real passion for process improvement and extreme programming practices. He always puts in full effort, and still finds time to work at making things better. He goes above and beyond what is expected of him and is always willing to help anyone who asks for his assistance."
+    },
+    {
+      "name": "Chris van Hammersveld",
+      "reference": "Jason is a detail-oriented engineer who focuses on the process of how to complete a project. He brought Agile development to Airgain and implemented it on several projects. He was respected by his peers and always had a good attitude."
+    },
+    {
+      "name": "William Getz",
+      "reference": "I have studied under Jason for about one years time now, and his methodology of instruction is clear and creative. Jason is able to instruct both basic and advanced concepts in programming as well as Agile and Test Driven Development. I have learned a great deal from him, and look forward to learning more from him as the years progress."
     }
   ]
 }
