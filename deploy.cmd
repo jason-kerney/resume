@@ -5,12 +5,6 @@
 :: Version: 0.1.11
 :: ----------------------
 
-ECHO Azure Websites has changed behaviors and automagically generates a web.config based on what it THINKS your website is.
-ECHO This demo is a static website built by a node.js tool so it'll try to deploy as a Node website. The
-ECHO quickest hack around this is to simply delete the web.config file generated so that this website is
-ECHO processed as a simple website, not as a node.js one
-del web.config
-
 :: Prerequisites
 :: -------------
 
@@ -59,11 +53,12 @@ IF NOT DEFINED KUDU_SYNC_CMD (
 :: ----------
 
 echo Handling Basic Web Site deployment.
-
+REM Use the Executecmd macro to execute and validate the command worked
 echo Building Resume
 call :Executecmd npm install
 IF !ERRORLEVEL! NEQ 0 goto error
-call :Executecmd npm test
+REM This creates the **index.html** which is deployed by Azure Websites.
+call :Executecmd node .\node_modules\resume-cli\index.js export index -f html
 IF !ERRORLEVEL! NEQ 0 goto error
 
 :: 1. KuduSync
