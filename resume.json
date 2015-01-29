@@ -134,12 +134,6 @@
       "endDate": "1998-01-01"
     }
   ],
-  "testing": [
-    {
-      "organizing": "Some Place",
-      "website" : "www.a.com"
-    }
-  ],
   "awards": [
     {
       "title": "Speaker at Agile Alliance Conference",
