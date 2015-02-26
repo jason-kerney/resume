@@ -22,12 +22,12 @@
       },
       {
         "network": "Linked In",
-        "username": "Jason Kerney",
+        "username": "In: Jason Kerney",
         "url": "www.linkedin.com/in/jasonkerney/"
       },
       {
         "network": "Google Plus",
-        "username": "Jason Kerney",
+        "username": "+Jason Kerney",
         "url": "https://plus.google.com/u/0/+JasonKerney"
       },
       {
@@ -168,7 +168,8 @@
         "Behavior Driven Development (BDD)",
         "Legacy Code Remediation",
         "ANSI SQL",
-        "Data Normalization"
+        "Data Normalization",
+        "Functional Programming"
       ]
     },
     {
@@ -181,6 +182,21 @@
         "Linq",
         "MVC"
       ]
+    },
+    {
+      "name": "Lisp",
+      "level": "Beginner",
+      "keywords": []
+    },
+    {
+      "name": "Go Lang",
+      "level": "Beginner",
+      "keywords": []
+    },
+    {
+      "name": "Rust",
+      "level": "Beginner",
+      "keywords": []
     }
   ],
   "languages": [
