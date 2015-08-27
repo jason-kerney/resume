@@ -1,124 +1,126 @@
 {
-  "basics": {
-    "name": "Robert “Jason” Kerney",
-    "label": "Programmer",
-    "picture": "https://lh3.googleusercontent.com/-PhcInTMjUFs/SapDre47OOI/AAAAAAAABNY/KVkFm2hIeCU/s165/010_1046.JPG",
-    "email": "jason@teamkerney.com",
-    "phone": "",
-    "website": "jason.teamkerney.com",
-    "summary": "Jason first started programming in 1988 when he purchased a Commodore64 and learned Commodore Basic.  He quickly discovered that evenings and weekends disappeared. He has continued to pursue the field of programming with an ever growing interest. He is determined to be the very best he can be and is never satisfied with what he has learned.",
-    "location": {
-      "address": "",
-      "postalCode": "CA 92126",
-      "city": "San Diego",
-      "countryCode": "US",
-      "region": "CA"
+    "basics": {
+        "name": "Robert “Jason” Kerney",
+        "label": "Programmer",
+        "picture": "https://lh3.googleusercontent.com/-PhcInTMjUFs/SapDre47OOI/AAAAAAAABNY/KVkFm2hIeCU/s165/010_1046.JPG",
+        "email": "jason@teamkerney.com",
+        "phone": "",
+        "website": "jason.teamkerney.com",
+        "summary": "Jason first started programming in 1988 when he purchased a Commodore64 and learned Commodore Basic.  He quickly discovered that evenings and weekends disappeared. He has continued to pursue the field of programming with an ever growing interest. He is determined to be the very best he can be and is never satisfied with what he has learned.",
+        "location": {
+            "address": "",
+            "postalCode": "CA 92126",
+            "city": "San Diego",
+            "countryCode": "US",
+            "region": "CA"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "@JasonKerney",
+                "url": "https://twitter.com/JasonKerney"
+            },
+            {
+                "network": "Linked In",
+                "username": "In: Jason Kerney",
+                "url": "www.linkedin.com/in/jasonkerney/"
+            },
+            {
+                "network": "Google Plus",
+                "username": "+Jason Kerney",
+                "url": "https://plus.google.com/u/0/+JasonKerney"
+            },
+            {
+                "network": "Git Hub",
+                "username": "Jason Kerney",
+                "url": "https://github.com/jason-kerney/"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "@JasonKerney",
-        "url": "https://twitter.com/JasonKerney"
-      },
-      {
-        "network": "Linked In",
-        "username": "In: Jason Kerney",
-        "url": "www.linkedin.com/in/jasonkerney/"
-      },
-      {
-        "network": "Google Plus",
-        "username": "+Jason Kerney",
-        "url": "https://plus.google.com/u/0/+JasonKerney"
-      },
-      {
-        "network": "Git Hub",
-        "username": "Jason Kerney",
-        "url": "https://github.com/jason-kerney/"
-      }
-    ]
-  },
-  "work": [
-    {
-      "company": "Hunter Industries",
-      "position": "Analyst, Programmer III",
-      "website": "http://www.hunterindustries.com/",
-      "startDate": "2014-01-06",
-      "summary": "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their driven for innovation has kept them as one of the top performers in their industry.",
-      "highlights": [
-        "Worked on a system that can detect a web application’s interface and then verify that user roles are configured correctly for that interface.",
-        "Helped start an internal user group to spread knowledge about beneficial software practices used through-out the company."
-      ]
-    },
-    {
-      "company": "BACTES Inc.",
-      "position": "Scrum Master, Senior Programmer",
-      "website": "http://www.bactes.com/",
-      "startDate": "2011-05-02",
-      "endDate": "2013-12-20",
-      "summary": "Bactes Inc. specializes in the handling of release of medical records for hospitals, clinics and doctors. They take-on the liability risk and paperwork overhead of this task so that medical facilities do not have to.",
-      "highlights": [
-        "Saved a failed legacy application. The application was delivered to internal customers but had failed to be successfully modified in 5 years. I was able to bring the application up to weekly deploys that included not only bug fixes but also new features.",
-        "Fixed a broken distributed system that allowed for medical records to be transferred in a secure manor back to headquarters for processing.",
-        "Worked to provide support and guidance during their initial Agile Transformation."
-      ]
-    },
-    {
-      "company": "Neodigm Inc.",
-      "position": "Co-Founder",
-      "website": "",
-      "startDate": "2010-08-01",
-      "endDate": "2011-05-02",
-      "summary": "Neodigm was dedicated to helping impoverished cities by partnering with Schools to write educational grants. These grants tended to focus on professional development for teachers teaching in those school districts.",
-      "highlights": [
-        "Used skills and tools from software development to allow our team of grant writers to have one of the highest success rates in the nation.",
-        "Used concepts from Agile and Lean development to guide our teams to working very effectively together."
-      ]
-    },
-    {
-      "company": "Airgain Inc.",
-      "position": "Senior Software Engineer",
-      "website": "http://www.airgain.com/",
-      "startDate": "2008-07-01",
-      "endDate": "2011-05-02",
-      "summary": "Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated innovation in the field which makes them one of most competitive in the field.",
-      "highlights": [
-        "Helped design an automated test system for testing of hardware.",
-        "Helped design an embedded driver for their wireless antenna’s that reduced dropped packets."
-      ]
-    },
-    {
-      "company": "irdeto",
-      "position": "Senior Software Engineer",
-      "website": "http://www.irdeto.com/",
-      "startDate": "2006-09-01",
-      "endDate": "2008-07-01",
-      "summary": "irdeto provides software and hardware solutions to media and media distribution companies.",
-      "highlights": [
-        "Designed and implemented the billing engine for a Customer Sales, Promotions, and Billing product aimed at cable providers.",
-        "Designed and implemented the security architecture for a Customer Sales, Promotions, and Billing product aimed at cable providers.",
-        "Part of the “Fire Fighter” team that had a mandated 24 hour turnaround time for critical bugs discovered in a Customer Sales, Promotions, and Billing product aimed at cable providers. This product had 7 teams of 6 programmers working on it."
-      ]
-    },
-    {
-      "company": "SEIDCON Inc",
-      "position": "Senior Applications Engineer",
-      "website": "http://www.seidcon.com/",
-      "startDate": "1998-01-01",
-      "endDate": "2006-09-01",
-      "summary": "Siedcon Inc. is dedicated to being in the fore front of digital security. They provide an outside consultancy to government agencies. The provide everything from penetration testing to the design of physical locations.",
-      "highlights": [
-        "Designed and implemented an automated way to generate large formatted documents that encapsulated the work of very specialized experts. This allowed SEIDCON to become so competitive that their leading competitor sub-contracted SEIDCON to do the actual work.",
-        "Discovered that SEICON qualified to become a Microsoft partner and lead the effort to ensure that it happened.",
-        "Responsible for reviewing development technologies and determining their use within the company."
-      ]
-    }
-  ],
+    "work": [
+        {
+            "company": "Hunter Industries",
+            "position": "Analyst, Programmer III",
+            "website": "http://www.hunterindustries.com/",
+            "startDate": "2014-01-06",
+            "summary": "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their driven for innovation has kept them as one of the top performers in their industry.",
+            "highlights": [
+                "Coached new members of a growing team in XP and agile practices",
+                "Worked on a system that can detect a web application’s interface and then verify that user roles are configured correctly for that interface.",
+                "Helped start an internal user group to spread knowledge about beneficial software practices used through-out the company."
+            ]
+        },
+        {
+            "company": "BACTES Inc.",
+            "position": "Scrum Master, Senior Programmer",
+            "website": "http://www.bactes.com/",
+            "startDate": "2011-05-02",
+            "endDate": "2013-12-20",
+            "summary": "Bactes Inc. specializes in the handling of release of medical records for hospitals, clinics and doctors. They take-on the liability risk and paperwork overhead of this task so that medical facilities do not have to.",
+            "highlights": [
+                "Saved a failed legacy application. The application was delivered to internal customers but had failed to be successfully modified in 5 years. I was able to bring the application up to weekly deploys that included not only bug fixes but also new features.",
+                "Fixed a broken distributed system that allowed for medical records to be transferred in a secure manor back to headquarters for processing.",
+                "Worked to provide support and guidance during their initial Agile Transformation."
+            ]
+        },
+        {
+            "company": "Neodigm Inc.",
+            "position": "Co-Founder",
+            "website": "",
+            "startDate": "2010-08-01",
+            "endDate": "2011-05-02",
+            "summary": "Neodigm was dedicated to helping impoverished cities by partnering with Schools to write educational grants. These grants tended to focus on professional development for teachers teaching in those school districts.",
+            "highlights": [
+                "Used skills and tools from software development to allow our team of grant writers to have one of the highest success rates in the nation.",
+                "Used concepts from Agile and Lean development to guide our teams to working very effectively together."
+            ]
+        },
+        {
+            "company": "Airgain Inc.",
+            "position": "Senior Software Engineer",
+            "website": "http://www.airgain.com/",
+            "startDate": "2008-07-01",
+            "endDate": "2011-05-02",
+            "summary": "Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated innovation in the field which makes them one of most competitive in the field.",
+            "highlights": [
+                "Helped design an automated test system for testing of hardware.",
+                "Helped design an embedded driver for their wireless antenna’s that reduced dropped packets."
+            ]
+        },
+        {
+            "company": "irdeto",
+            "position": "Senior Software Engineer",
+            "website": "http://www.irdeto.com/",
+            "startDate": "2006-09-01",
+            "endDate": "2008-07-01",
+            "summary": "irdeto provides software and hardware solutions to media and media distribution companies.",
+            "highlights": [
+                "Designed and implemented the billing engine for a Customer Sales, Promotions, and Billing product aimed at cable providers.",
+                "Designed and implemented the security architecture for a Customer Sales, Promotions, and Billing product aimed at cable providers.",
+                "Part of the “Fire Fighter” team that had a mandated 24 hour turnaround time for critical bugs discovered in a Customer Sales, Promotions, and Billing product aimed at cable providers. This product had 7 teams of 6 programmers working on it."
+            ]
+        },
+        {
+            "company": "SEIDCON Inc",
+            "position": "Senior Applications Engineer",
+            "website": "http://www.seidcon.com/",
+            "startDate": "1998-01-01",
+            "endDate": "2006-09-01",
+            "summary": "Siedcon Inc. is dedicated to being in the fore front of digital security. They provide an outside consultancy to government agencies. The provide everything from penetration testing to the design of physical locations.",
+            "highlights": [
+                "Designed and implemented an automated way to generate large formatted documents that encapsulated the work of very specialized experts. This allowed SEIDCON to become so competitive that their leading competitor sub-contracted SEIDCON to do the actual work.",
+                "Discovered that SEICON qualified to become a Microsoft partner and lead the effort to ensure that it happened.",
+                "Responsible for reviewing development technologies and determining their use within the company."
+            ]
+        }
+    ],
   "volunteer": [
     {
       "organization": "Society for Creative Anachronism (SCA), Barony of Calafia",
       "position": "Youth Officer",
       "website": "http://www.calafia.org/",
       "startDate": "2014-09-01",
+      "endDate": "2014-06-01",
       "summary": "Group dedicated to the promotion of Medieval history.",
       "highlights": [
         "Responsible for coordinating, overseeing and organizing youth events intended to excite and educate."
@@ -146,6 +148,12 @@
       "date": "2014-07-28",
       "awarder": "Agile Alliance",
       "summary": "The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development."
+    },
+    {
+      "title": "Speaker at Agile Alliance Conference",
+      "date": "2015-08-03",
+      "awarder": "Agile Alliance",
+      "summary": "The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development."
     }
   ],
   "skills": [
@@ -157,6 +165,17 @@
         "CSS",
         "Javascript",
         "Microsoft MVC"
+      ]
+    },
+    {
+      "name": "Technical Coaching",
+      "level": "Intermediate",
+      "keywords": [
+        "XP",
+        "Test Driven Development",
+        "Behavior Driven Development",
+        "Programming Languages",
+        "Code Smells"
       ]
     },
     {
