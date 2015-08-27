@@ -120,7 +120,7 @@
       "position": "Youth Officer",
       "website": "http://www.calafia.org/",
       "startDate": "2014-09-01",
-      "endDate": "2014-06-01",
+      "endDate": "2015-06-01",
       "summary": "Group dedicated to the promotion of Medieval history.",
       "highlights": [
         "Responsible for coordinating, overseeing and organizing youth events intended to excite and educate."
@@ -172,10 +172,15 @@
       "level": "Intermediate",
       "keywords": [
         "XP",
-        "Test Driven Development",
-        "Behavior Driven Development",
+        "Test Driven Development (TDD)",
+        "Behavior Driven Development (BDD)",
         "Programming Languages",
-        "Code Smells"
+        "Code Smells",
+        "Mob Programming",
+        "Pair Programming",
+        "Legacy Code Remediation",
+        "Functional Programming",
+        "Object Oriented Programming"
       ]
     },
     {
