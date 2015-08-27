@@ -43,9 +43,9 @@
             "position": "Analyst, Programmer III",
             "website": "http://www.hunterindustries.com/",
             "startDate": "2014-01-06",
-            "summary": [ "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their drive for innovation has kept them as one of the top performers in their industry.", "Jason works as part of a dynamic Mob Programming Team. As part of that team, he not only adds his deep technical knowledge but also functions as a technical coach." ],
+            "summary": "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their drive for innovation has kept them as one of the top performers in their industry.",
             "highlights": [
-                "Coached new members of a growing team in XP and agile practices",
+                "Spends a quarter of his time coaching technical skills including",
                 "Worked on a system that can detect a web application’s interface and then verify that user roles are configured correctly for that interface.",
                 "Helped start an internal user group to spread knowledge about beneficial software practices used through-out the company."
             ]
@@ -58,6 +58,8 @@
             "endDate": "2013-12-20",
             "summary": "Bactes Inc. specializes in the handling of release of medical records for hospitals, clinics and doctors. They take-on the liability risk and paperwork overhead of this task so that medical facilities do not have to.",
             "highlights": [
+                "Coached XP practices",
+                "Coached in Agile principles and practices",
                 "Saved a failed legacy application. The application was delivered to internal customers but had failed to be successfully modified in 5 years. I was able to bring the application up to weekly deploys that included not only bug fixes but also new features.",
                 "Fixed a broken distributed system that allowed for medical records to be transferred in a secure manor back to headquarters for processing.",
                 "Worked to provide support and guidance during their initial Agile Transformation."
