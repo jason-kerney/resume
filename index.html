@@ -1,364 +1,885 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Robert “Jason” Kerney</title>
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans' rel='stylesheet' type='text/css'>
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    <style>
-		body {
-			font-size: 62.5%;
-			font-family: Montserrat;
-			color: #333333;
-		}
-		.picture {
-			border-radius: 50%;
-			margin: 0 auto;
-		}
-		a {
-			color: #333333;
-			text-decoration: none;
-		}
-		a:visited {
-			color: #4e4e4e;
-		}
-		a:hover {
-			color: #4e4e4e;
-			text-decoration: underline;
-		}
-		
-		.header {
-			text-align:center;
-			font-size: 2em;
-			margin-top:1em;
-			margin-left:5%;
-			margin-right:5%;
-		}
-		h1 {
-			font-size:3em;
-			margin-bottom:0;
-		}
-		.profile {
-			font-family: Montserrat;
-			font-size: 1em;
-			margin:0;
-		}
+    <title>Resume of Robert “Jason” Kerney</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <style type="text/css">
+    @import url(//fonts.googleapis.com/css?family=Open+Sans:400,600,700,800);
+@charset "utf-8";
+@-webkit-viewport   { width: device-width; }
+@-moz-viewport      { width: device-width; }
+@-ms-viewport       { width: device-width; }
+@-o-viewport        { width: device-width; }
+@viewport           { width: device-width; }
 
-		.contact-header {
-			font-weight:bold;
-		}
-		.label {
-			margin-top: 0;
-			margin-bottom: 1em;
-		}
-		.fa {
-			font-size:2em;
-		}
-		.left {
-			font-size: 1em;
-		}
-		.main {
-			margin 0 auto;
-			margin-left: 10%;
-			margin-right: 10%;
-			margin-bottom: 50px;
-		}
-		h2 {
-			font-size: 3.5em;
-		}
-		h3 {
-			font-size:2em;
-			margin-bottom:0;
-		}
-		h4 {
-			color: #4e4e4e;
-			font-size:1.5em;
-			margin-top:0;
-		}
-		.skills {
-			margin-bottom: 10px;
-		}
-		p {
-			font-family: 'Open Sans';
-			font-size: 1.5em;
-		}
-		li {
-			font-family: 'Open Sans';
-			font-size: 1.5em;
-		}
-		.keywords {
-			background-color: #333333;
-			color:#fff;
-			padding: 6px;
-			font-size: 1.2em;
-			margin-bottom: 5px;
-			display:inline-block;
-		}
-		blockquote {
-			margin: 2em 10px;
-  			padding: 1em 10px;
-			border-left: 10px solid #edf0f5;
-			font-family: 'Open Sans';
-			font-size: 1.5em;
-		}
-		blockquote .name {
-			font-weight:bold;
-			font-family: "Montserrat";
-		}
-		.responsive-show {
-			display:none;
-		}
-		@media (max-width: 1000px) {
-  			.header {
-    			font-size: 1.66em;
-  			}
-  			h2 {
-  				font-size: 3em;
-  			}
-		}
-		@media (max-width: 500px) {
-			p {
-				font-size:1.2em;
-			}
-			li {
-				font-size:1.2em;
-			}
-			blockquote {
-				font-size:1.2em;
-			}
-			h2 {
-				font-size:2.3em;
-			}
-			.responsive-hidden {
-				display:none;
-				visibility: hidden;
-			}
-			.responsive-show {
-				display:inline;
-				visibility: visible;
-			}
-		}
+body{
+  font-family: 'Open Sans', Arial, Tahoma;
+  font-weight: 400;
+  color: #363636;
+  background: #334960;
+}
+blockquote {
+  font-size: 1em;
+}
+
+.container{
+  margin-top: 80px;
+  margin-bottom: 15px;
+  background: #fff;
+}
+
+#photo-header{
+  margin-top: -75px;
+}
+#photo{
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  overflow: hidden;
+  padding: 5px;
+  background: #334960;
+  display: inline-block;
+}
+#photo img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+#text-header h1{
+  margin: 0;
+  padding: 0;
+  font-size: 1.5em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+}
+#text-header h1::first-line{
+  font-size: 1.5em;
+  font-weight: 800;
+  line-height: 1.5em;
+}
+#text-header h1 span{
+  color: #334960;
+  opacity: 0.7;
+}
+#text-header h1 sup{
+  opacity: 0.5;
+}
+#text-header:after{
+  width: 100%;
+  height: 3px;
+  border-bottom: 1px solid #ddd;
+  margin-top: 15px;
+  content: '';
+  display: block;
+}
+
+.box{
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+}
+.box h2{
+  color: #227c74;
+  font-size: 1.5em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+#awards,
+#education{
+  margin-top: 20px;
+  position: relative;
+  padding: 1em 0;
+  list-style: none;
+}
+#awards:before,
+#education:before {
+  width: 5px;
+  height: 100%;
+  position: absolute;
+  left: 35px;
+  top: 0;
+  content: ' ';
+  display: block;
+  background: #32475c;
+  background: -moz-linear-gradient(top,  #ffffff 0%, #32475c 7%, #32475c 89%, #ffffff 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(7%,#32475c), color-stop(89%,#32475c), color-stop(100%,#ffffff));
+  background: -webkit-linear-gradient(top,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+  background: -o-linear-gradient(top,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+  background: -ms-linear-gradient(top,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+  background: linear-gradient(to bottom,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+}
+#awards li,
+#education li{
+  width: 100%;
+  z-index: 2;
+  position: relative;
+  float: left;
+}
+#awards .year,
+#education .year{
+  width: 10%;
+  background: #fff;
+  padding: 10px;
+  font-weight: 700;
+  display: inline-block;
+}
+#awards .description,
+#education .description{
+  width: 85%;
+  display: inline-block;
+  background: #eee;
+  margin-bottom: 10px;
+  position: relative;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+#awards .description:after,
+#education .description:after {
+  content: '';
+  position: absolute;
+  top: 15px;
+  right: 0;
+  left: -16px;
+  height: 0;
+  width: 0;
+  border: solid transparent;
+  border-right-color: #eee;
+  border-width: 8px;
+  pointer-events: none;
+}
+#awards .description h3,
+#education .description h3{
+  font-size: 1.2em;
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+}
+#awards .description p,
+#education .description p{
+  margin-top: 5px;
+  padding: 0;
+}
+
+.job{
+  margin-bottom: 15px;
+}
+.job .details {
+  margin-left: 3%;
+  width: 95%;
+  padding: 10px;
+  margin-bottom: 10px;
+  background: #eee;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+.job .where{
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.job .year{
+  opacity: 0.7;
+}
+.job .profession{
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.job .description{
+  line-height: 1.5em;
+}
+.job .highlights{
+  padding: 10px 0;
+  font-weight: bold;
+}
+.publication .name{
+  font-size: 1em;
+  font-weight: bold;
+}
+.publication .year{
+    opacity: 0.7;
+}
+.publication p{
+  margin: 0;
+  padding-top: 10px;
+}
+
+.contact-item{
+  width: 100%;
+  float: left;
+}
+.contact-item .icon{
+  padding: 10px;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  color: #32475c;
+  background: #eee;
+}
+.contact-item:last-child .icon{
+  border-bottom: none;
+}
+.contact-item .title{
+  width: 80%;
+  width: calc(100% - 55px);
+  font-weight: 700;
+  opacity: 0.9;
+}
+.contact-item .title.only{
+  margin-top: 10px;
+}
+.contact-item .description{
+  width: 80%;
+  width: calc(100% - 55px);
+  color: #334960;
+}
+
+.item-interests,
+.item-skills{
+  height: 30px;
+  color: #334960;
+  padding: 5px 10px;
+  margin-bottom: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 1.1em;
+  font-weight: 600;
+}
+.interest,
+.skill{
+  color: #fff;
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  padding: 5px 10px;
+  background: #32475c;
+  position: relative;
+  font-size: .85em;
+}
+.skill-level {
+  background-color: #227c74;
+  border-radius: 4px;
+  color: #fff;
+  padding: 1px 8px;
+  font-size: .75em;
+  position: absolute;
+  margin: 1px 10px;
+}
+
+#language-skills .skill{
+  margin: 10px 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+@media (min-width: 500px) {
+  #education .description{
+    width: 85%;
+  }
+}
+@media (min-width: 768px) {
+  #education .description{
+    width: 85%;
+  }
+}
+@media (min-width: 992px) {
+  #education .description{
+    width: 87%;
+  }
+}
+@media (min-width: 1200px) {
+  #education .description{
+    width: 90%;
+  }
+}
+
     </style>
-	<script src= "//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <style type="text/css" media="print">
+    body {
+  font-size: .95em;
+  -webkit-print-color-adjust: exact;
+}
+
+a[href]:after {
+  content: none !important;
+}
+
+#photo{
+  display: none;
+}
+
+.box {
+  margin-bottom: -10px;
+}
+.col-sm-5{
+  width: 40%;
+  padding: 0 15px;
+}
+
+.col-sm-7{
+  width: 60%;
+  padding: 0 15px;
+}
+
+.skills .col-sm-offset-1,
+.interests .col-sm-offset-1{
+  margin-top: -10px;
+  margin-bottom: 5px;
+}
+
+#awards:before,
+#education:before {
+  background: none;
+}
+
+#awards .description,
+#education .description,
+.job .details {
+  border: 1px solid #eee;
+}
+.publication,
+.publication .panel-heading,
+.publication .name{
+  margin: 0;
+  padding: 0 5px;
+  border: none;
+}
+.publication .panel-body {
+  padding: 0 10px;
+  margin: 0;
+}
+
+.badge {
+  margin: 0;
+}
+
+.list-group-item{
+  border: none;
+  margin: 0;
+  padding: 5px 15px;
+}
+.list-group-item:after{
+  content: '';
+  position: absolute;
+  top: 8px;
+  right: 0;
+  left: -1px;
+  height: 0;
+  width: 0;
+  border: solid transparent;
+  border-right-color: #999;
+  border-width: 4px;
+  pointer-events: none;
+ }
+
+    </style>
   </head>
   <body>
-	<div class= "header">
-			<img src= "https:&#x2F;&#x2F;lh3.googleusercontent.com&#x2F;-PhcInTMjUFs&#x2F;SapDre47OOI&#x2F;AAAAAAAABNY&#x2F;KVkFm2hIeCU&#x2F;s165&#x2F;010_1046.JPG" width= "75px" height= "75px" class= "picture">
-		<h1>ROBERT “JASON” KERNEY</h1>
-		<h3 class= "label">PROGRAMMER &#x2F; TECHNICAL COACH</h3>
-		<div class= "contact-header">
-				San Diego, CA, US<br>
-				
-			</div>
-		<div id= "contact">
-			<br>
-			<div class= "contact-header">
-				EMAIL <span class= "responsive-hidden">&bull;</span> <span class= "responsive-show"><br></span><a href= "mailto:jason@teamkerney.com" target= "_blank">jason@teamkerney.com</a> <span class= "responsive-show"><br><br></span>
-			</div>
-			<div class= "contact-header">
-				WEBSITE <span class= "responsive-hidden">&bull;</span> <span class= "responsive-show"><br></span><a href= "https:&#x2F;&#x2F;jason.teamkerney.com" target= "_blank">https:&#x2F;&#x2F;jason.teamkerney.com</a> <span class= "responsive-show"><br><br></span>
-			</div>
-		</div>
-		<br>
-		<div id= "profiles">
-			<div class= "contact-header">PROFILES</div><br>
-			<p class= "profile"><a href= "https:&#x2F;&#x2F;twitter.com&#x2F;JasonKerney" target= "_blank" class= "profile">Twitter</a></p>
-			<p class= "profile"><a href= "https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;jasonkerney&#x2F;" target= "_blank" class= "profile">Linked In</a></p>
-			<p class= "profile"><a href= "https:&#x2F;&#x2F;plus.google.com&#x2F;u&#x2F;0&#x2F;+JasonKerney" target= "_blank" class= "profile">Google Plus</a></p>
-			<p class= "profile"><a href= "https:&#x2F;&#x2F;github.com&#x2F;jason-kerney&#x2F;" target= "_blank" class= "profile">Git Hub</a></p>
-			<p class= "profile"><a href= "https:&#x2F;&#x2F;www.npmjs.com&#x2F;~jasonkerney" target= "_blank" class= "profile">NPM</a></p>
-			<p class= "profile"><a href= "https:&#x2F;&#x2F;www.nuget.org&#x2F;profiles&#x2F;JasonKerney" target= "_blank" class= "profile">Nuget</a></p>
-		</div>		
-	</div>
-	<div class= "main">
-		<div id= "about">
-			<h2><i class= "fa fa-user left"></i> ABOUT</h2>
-			<p>
-				Jason first started programming in 1988 when he purchased a Commodore64 and learned Commodore Basic.  He quickly discovered that evenings and weekends disappeared. He has continued to pursue the field of programming with an ever growing interest. He is determined to be the very best he can be and is never satisfied with what he has learned.
-			</p>
-		</div>
-		<div id= "work">
-			<h2><i class= "fa fa-suitcase left"></i> WORK EXPERIENCE</h2>
-				<div class= "job">
-					<h3>Full Stack Engineer, Hunter Industries</h3>
-					<h4>January 2014 - Present</h4>
-					<p>Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their drive for innovation has kept them as one of the top performers in their industry.</p>
-					<h4>HIGHLIGHTS</h4>
-					<ul>
-						<li>Spends a quarter of his time coaching technical skills</li>
-						<li>Reworked the department&#39;s onboarding</li>
-						<li>Reworked the department&#39;s employee growth and feedback system</li>
-						<li>Trained anouther department in using interpersonal tools to increase safety around thier communications</li>
-						<li>Helped start an internal user group to spread knowledge about beneficial software practices used through-out the company.</li>
-					</ul>
-				</div>
-				<div class= "job">
-					<h3>Scrum Master, Senior Programmer, BACTES Inc.</h3>
-					<h4>May 2011 - December 2013</h4>
-					<p>Bactes Inc. specializes in the handling of release of medical records for hospitals, clinics and doctors. They take-on the liability risk and paperwork overhead of this task so that medical facilities do not have to.</p>
-					<h4>HIGHLIGHTS</h4>
-					<ul>
-						<li>Coached XP practices</li>
-						<li>Coached in Agile principles and practices</li>
-						<li>Saved a failed legacy application. The application was delivered to internal customers but had failed to be successfully modified in 5 years. I was able to bring the application up to weekly deploys that included not only bug fixes but also new features.</li>
-						<li>Fixed a broken distributed system that allowed for medical records to be transferred in a secure manor back to headquarters for processing.</li>
-						<li>Worked to provide support and guidance during their initial Agile Transformation.</li>
-					</ul>
-				</div>
-				<div class= "job">
-					<h3>Co-Founder, Neodigm Inc.</h3>
-					<h4>August 2010 - May 2011</h4>
-					<p>Neodigm was dedicated to helping impoverished cities by partnering with Schools to write educational grants. These grants tended to focus on professional development for teachers teaching in those school districts.</p>
-					<h4>HIGHLIGHTS</h4>
-					<ul>
-						<li>Used skills and tools from software development to allow our team of grant writers to have one of the highest success rates in the nation.</li>
-						<li>Used concepts from Agile and Lean development to guide our teams to working very effectively together.</li>
-					</ul>
-				</div>
-				<div class= "job">
-					<h3>Senior Software Engineer, Airgain Inc.</h3>
-					<h4>July 2008 - May 2011</h4>
-					<p>Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated innovation in the field which makes them one of most competitive in the field.</p>
-					<h4>HIGHLIGHTS</h4>
-					<ul>
-						<li>Helped design an automated test system for testing of hardware.</li>
-						<li>Helped design an embedded driver for their wireless antenna’s that reduced dropped packets.</li>
-					</ul>
-				</div>
-				<div class= "job">
-					<h3>Senior Software Engineer, irdeto</h3>
-					<h4>September 2006 - July 2008</h4>
-					<p>irdeto provides software and hardware solutions to media and media distribution companies.</p>
-					<h4>HIGHLIGHTS</h4>
-					<ul>
-						<li>Designed and implemented the billing engine for a Customer Sales, Promotions, and Billing product aimed at cable providers.</li>
-						<li>Designed and implemented the security architecture for a Customer Sales, Promotions, and Billing product aimed at cable providers.</li>
-						<li>Part of the “Fire Fighter” team that had a mandated 24 hour turnaround time for critical bugs discovered in a Customer Sales, Promotions, and Billing product aimed at cable providers. This product had 7 teams of 6 programmers working on it.</li>
-					</ul>
-				</div>
-				<div class= "job">
-					<h3>Senior Applications Engineer, SEIDCON Inc</h3>
-					<h4>January 1998 - September 2006</h4>
-					<p>Siedcon Inc. is dedicated to being in the fore front of digital security. They provide an outside consultancy to government agencies. The provide everything from penetration testing to the design of physical locations.</p>
-					<h4>HIGHLIGHTS</h4>
-					<ul>
-						<li>Designed and implemented an automated way to generate large formatted documents that encapsulated the work of very specialized experts. This allowed SEIDCON to become so competitive that their leading competitor sub-contracted SEIDCON to do the actual work.</li>
-						<li>Discovered that SEICON qualified to become a Microsoft partner and lead the effort to ensure that it happened.</li>
-						<li>Responsible for reviewing development technologies and determining their use within the company.</li>
-					</ul>
-				</div>
-		</div>
-		<div id= "volunteer">
-			<h2><i class= "fa fa-child left"></i> VOLUNTEER WORK</h2>
-			<h3>Youth Officer, Society for Creative Anachronism (SCA), Barony of Calafia</h3>
-			<h4>September 2014 - June 2015</h4>
-			<p>Group dedicated to the promotion of Medieval history.<br><a href= "http:&#x2F;&#x2F;www.calafia.org&#x2F;" target= "_blank">http:&#x2F;&#x2F;www.calafia.org&#x2F;</a></p>
-			<h4>HIGHLIGHTS</h4>
-			<ul>
-				<li>Responsible for coordinating, overseeing and organizing youth events intended to excite and educate.</li>
-			</ul>
-		</div>
-		<div id= "skills">
-			<h2><i class= "fa fa-tasks left"></i> SKILLS</h2>
-				<h3 class= "skills">Web Development</h3>
-				<span class= "keywords">HTML</span>
-				<span class= "keywords">CSS</span>
-				<span class= "keywords">Javascript</span>
-				<span class= "keywords">Microsoft MVC</span>
-				<h3 class= "skills">Technical Coaching</h3>
-				<span class= "keywords">XP</span>
-				<span class= "keywords">Test Driven Development (TDD)</span>
-				<span class= "keywords">Behavior Driven Development (BDD)</span>
-				<span class= "keywords">Programming Languages</span>
-				<span class= "keywords">Code Smells</span>
-				<span class= "keywords">Mob Programming</span>
-				<span class= "keywords">Pair Programming</span>
-				<span class= "keywords">Legacy Code Remediation</span>
-				<span class= "keywords">Functional Programming</span>
-				<span class= "keywords">Object Oriented Programming</span>
-				<h3 class= "skills">Software Development</h3>
-				<span class= "keywords">SOLID</span>
-				<span class= "keywords">Test Driven Development (TDD)</span>
-				<span class= "keywords">Behavior Driven Development (BDD)</span>
-				<span class= "keywords">Legacy Code Remediation</span>
-				<span class= "keywords">ANSI SQL</span>
-				<span class= "keywords">Data Normalization</span>
-				<span class= "keywords">Functional Programming</span>
-				<h3 class= "skills">Microsoft Development</h3>
-				<span class= "keywords">.Net Framework</span>
-				<span class= "keywords">C#</span>
-				<span class= "keywords">F#</span>
-				<span class= "keywords">Linq</span>
-				<span class= "keywords">MVC</span>
-				<h3 class= "skills">Lisp</h3>
-				<h3 class= "skills">Go Lang</h3>
-				<h3 class= "skills">Rust</h3>
-		</div><br>
-		<div id= "education">
-			<h2><i class= "fa fa-graduation-cap left"></i> EDUCATION</h2>
-				<h3>Bachelor, Electrical and Electronics Engineering - ITT Technical Institute</h3>
-				<h4>January 1994 - January 1998</h4>
-		</div>
-		<div id= "awards">
-			<h2><i class= "fa fa-trophy left"></i> AWARDS</h2>
-				<h3>Speaker at Agile Alliance Conference - Agile Alliance</h3>
-				<h4>18 June 2017</h4>
-				<p>The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development.</p>
-				<h3>Speaker at Agile Alliance Conference - Agile Alliance</h3>
-				<h4>13 August 2010</h4>
-				<p>The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development.</p>
-				<h3>Speaker at Agile Alliance Conference - Agile Alliance</h3>
-				<h4>28 July 2014</h4>
-				<p>The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development.</p>
-				<h3>Speaker at Agile Alliance Conference - Agile Alliance</h3>
-				<h4>03 August 2015</h4>
-				<p>The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development.</p>
-		</div>
-		<div id= "publications">
-			<h2><i class= "fa fa-book left"></i> PUBLICATIONS</h2>
-				<h3>Experience Report: Mob Programming - My First Team</h3>
-				<h4>08 May 2015</h4>
-				<p>What was it like joing a mob programming team. I had problems, my ego got in my way. I also learned a lot about myself, and inproved my out of work relationships.<br><a href= "https:&#x2F;&#x2F;www.agilealliance.org&#x2F;resources&#x2F;experience-reports&#x2F;mob-programming-my-first-team&#x2F;" target= "_blank">https:&#x2F;&#x2F;www.agilealliance.org&#x2F;resources&#x2F;experience-reports&#x2F;mob-programming-my-first-team&#x2F;</a></p>
-		</div>
-		<div id= "interests">
-			<h2><i class= "fa fa-star left"></i> INTERESTS</h2>
-				<h3 class= "skills">Writing</h3>
-				<span class= "keywords">Fiction</span>
-				<h3 class= "skills">My Kids</h3>
-				<span class= "keywords">Teaching Programming</span>
-				<span class= "keywords">Sports</span>
-				<span class= "keywords">Teaching</span>
-				<span class= "keywords">School</span>
-				<h3 class= "skills">Programming</h3>
-				<span class= "keywords">New Languages</span>
-				<span class= "keywords">Functional</span>
-				<span class= "keywords">Teaching</span>
-				<span class= "keywords">Mentoring</span>
-				<span class= "keywords">Learning</span>
-		</div>
-		<div id= "languages">
-			<h2><i class= "fa fa-language left"></i> LANGUAGES</h2>
-				<h3>English</h3>
-				<h4>Fluency: Native speaker</h4>
-		</div>
-		<div id= "references">
-			<h2><i class= "fa fa-thumbs-up left"></i> REFERENCES</h2>
-			<blockquote>
-				Jason is a great programmer and has a real passion for process improvement and extreme programming practices. He always puts in full effort, and still finds time to work at making things better. He goes above and beyond what is expected of him and is always willing to help anyone who asks for his assistance.
-				<div class= "name"><br>- Woody Zuill</div>
-			</blockquote><br>
-			<blockquote>
-				Jason is a detail-oriented engineer who focuses on the process of how to complete a project. He brought Agile development to Airgain and implemented it on several projects. He was respected by his peers and always had a good attitude.
-				<div class= "name"><br>- Chris van Hammersveld</div>
-			</blockquote><br>
-			<blockquote>
-				I have studied under Jason for about one years time now, and his methodology of instruction is clear and creative. Jason is able to instruct both basic and advanced concepts in programming as well as Agile and Test Driven Development. I have learned a great deal from him, and look forward to learning more from him as the years progress.
-				<div class= "name"><br>- William Getz</div>
-			</blockquote><br>
-		</div>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <div id="photo-header" class="text-center">
+            <!-- PHOTO (AVATAR) -->
+            <div id="photo">
+              <img src="https:&#x2F;&#x2F;lh3.googleusercontent.com&#x2F;-PhcInTMjUFs&#x2F;SapDre47OOI&#x2F;AAAAAAAABNY&#x2F;KVkFm2hIeCU&#x2F;s165&#x2F;010_1046.JPG" alt="avatar">
+            </div>
+            <div id="text-header" >
+              <h1>Robert “Jason” Kerney<br><span>Technical Coach &#x2F; Programmer</span></h1>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-7">
+          <!-- ABOUT ME -->
+          <div class="box">
+            <h2><i class="fa fa-user ico"></i> About</h2>
+            <p>I first started programming in 1988 when he purchased a Commodore64 and learned Commodore Basic.  He quickly discovered that evenings and weekends disappeared. He has continued to pursue the field of programming with an ever-growing interest.
 
-	</div>
+I am a software engineer with more than 21 years of experience gained in a wide array of fields and projects. I enjoy the perspectives gained from work within new situations. My varied domains of work have allowed me a unique insight into the field of computer science.
+
+I hardworking, devoted professional who enjoys finding creative solutions to difficult problems. I enjoy passing on what I know to others through inspiration, teaching, mentoring, and coaching. I am frequently asked to speak at user groups and Code Camps. I was selected multiple times as a speaker to teach techniques that I developed to some of the best computer science engineers, and coaches, in the field at the US Agile Alliance Conferences.</p>
+          </div>
+          <!-- EDUCATION -->
+          <div class="box">
+            <h2><i class="fa fa-university ico"></i> Education</h2>
+            <ul id="education" class="clearfix">
+              <li>
+                <div class="year pull-left">1994 1998</div>
+                <div class="description pull-right">
+                  <h3>ITT Technical Institute</h3>
+                  <p><i class= "fa fa-graduation-cap ico"></i> Bachelor</p>
+                  <p>Electrical and Electronics Engineering</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <!-- WORK EXPERIENCE -->
+          <div class="box">
+            <h2><i class= "fa fa-suitcase ico"></i> Work Experience</h2>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">Hunter Industries</div>
+                    <div class="address">
+                      <a href="http:&#x2F;&#x2F;www.hunterindustries.com&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;www.hunterindustries.com&#x2F;</a>
+                    </div>
+                    <div class="year">January 2014 – Present</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-offset-1 col-xs-11">
+                    <div class="profession">Full Stack Engineer</div>
+                    <div class="description">
+                      Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their drive for innovation has kept them as one of the top performers in their industry. I have worked to help make their programming efforts world renowned by teaching, coaching and mentoring practices that keep their bug count to zero and their time to market unbeatable.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Spends a quarter of his time coaching technical skills</li>
+                        <li class="list-group-item">Reworked the department's onboarding</li>
+                        <li class="list-group-item">Reworked the department's employee growth and feedback system</li>
+                        <li class="list-group-item">Coaches around continual growth in technical and interpersonal skills</li>
+                        <li class="list-group-item">Runs training sessions on technical practices and ideas</li>
+                        <li class="list-group-item">Trained another department in using interpersonal tools to increase safety around their communications</li>
+                        <li class="list-group-item">Helped start an internal user group to spread knowledge about beneficial software practices used through-out the company</li>
+                        <li class="list-group-item">Coaches Retrospectives</li>
+                        <li class="list-group-item">Leads Retrospectives</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">BACTES Inc.</div>
+                    <div class="address">
+                      <a href="http:&#x2F;&#x2F;www.bactes.com&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;www.bactes.com&#x2F;</a>
+                    </div>
+                    <div class="year">May 2011 – December 2013</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-offset-1 col-xs-11">
+                    <div class="profession">Scrum Master, Senior Programmer</div>
+                    <div class="description">
+                      
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Coached in Agile principles and practices</li>
+                        <li class="list-group-item">Lead Retrospectives</li>
+                        <li class="list-group-item">Coached on Retrospectives</li>
+                        <li class="list-group-item">Moved to daily, bug free, deployments.</li>
+                        <li class="list-group-item">Delivered in 3 moths a system that had not been delivered in 3 years.</li>
+                        <li class="list-group-item">Built a history of bug free releases</li>
+                        <li class="list-group-item">Trained team in XP practices</li>
+                        <li class="list-group-item">Trained XP practice of "Test Driven Developmen"</li>
+                        <li class="list-group-item">Trained XP practice of "Pair Programming"</li>
+                        <li class="list-group-item">Trained XP practice of "Automated Deployment"</li>
+                        <li class="list-group-item">Trained XP practice of "Customer Focus"</li>
+                        <li class="list-group-item">Hired team of developers to work on legacy bug-ridden system.</li>
+                        <li class="list-group-item">Helped with initial guidance on their Agile transformation</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">Neodigm Inc.</div>
+                    <div class="year">August 2010 – May 2011</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-offset-1 col-xs-11">
+                    <div class="profession">Co-Founder</div>
+                    <div class="description">
+                      Neodigm was dedicated to helping impoverished cities by partnering with Schools to write educational grants. These grants tended to focus on professional development for teachers teaching in those school districts. I was taking my technical understanding to train grant writers in the practices used to make successful software. Through these techniques Neodigm became the leader in their industry with some of the highest success rates among grant writers and teams.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Used skills and tools from software development to allow our team of grant writers to have one of the highest success rates in the nation.</li>
+                        <li class="list-group-item">Used concepts from Agile and Lean Development to guide our teams to working very effectively together.</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">Airgain Inc.</div>
+                    <div class="address">
+                      <a href="http:&#x2F;&#x2F;www.airgain.com&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;www.airgain.com&#x2F;</a>
+                    </div>
+                    <div class="year">July 2008 – May 2011</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-offset-1 col-xs-11">
+                    <div class="profession">Senior Software Engineer</div>
+                    <div class="description">
+                      Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated innovation in the field which makes them one of most competitive manufactures. I was asked to train a software development team working in embedded systems in software development patterns and testing.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Trained the team in the use of common Object-Oriented patterns which improved time to delivery</li>
+                        <li class="list-group-item">Helped design an automated test system for testing of hardware</li>
+                        <li class="list-group-item">Helped design an embedded driver for their wireless antenna’s that reduced dropped packets</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">irdeto</div>
+                    <div class="address">
+                      <a href="http:&#x2F;&#x2F;www.irdeto.com&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;www.irdeto.com&#x2F;</a>
+                    </div>
+                    <div class="year">September 2006 – July 2008</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-offset-1 col-xs-11">
+                    <div class="profession">Senior Software Engineer</div>
+                    <div class="description">
+                      irdeto provides software and hardware solutions to media and media distribution companies. I performed as a lead developer and was tasked with writing the most crucial and sensitive parts of the system.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Designed and implemented the billing engine for a Customer Sales, Promotions, and Billing product aimed at cable providers</li>
+                        <li class="list-group-item">Designed and implemented the security architecture for a Customer Sales, Promotions, and Billing product aimed at cable providers</li>
+                        <li class="list-group-item">Part of the “Fire Fighter” team that had a mandated 24-hour turnaround time for critical bugs discovered in a Customer Sales, Promotions, and Billing product aimed at cable providers. This product was developed by over 30 programmers, and the firefighting team was often working on code they had never seen before</li>
+                        <li class="list-group-item">Designed a new way to put legacy code under unit test</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">SEIDCON Inc</div>
+                    <div class="address">
+                      <a href="http:&#x2F;&#x2F;www.seidcon.com&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;www.seidcon.com&#x2F;</a>
+                    </div>
+                    <div class="year">January 1998 – September 2006</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-offset-1 col-xs-11">
+                    <div class="profession">Information Assurance Security &amp; Senior Applications Engineer</div>
+                    <div class="description">
+                      SEIDCON Inc. is dedicated to being in the fore front of digital security. They provide an outside consultancy to government agencies providing everything from penetration testing to the design of physical locations that prevent signal leakage. I started out as a Junior Programmer and quickly proved to be so much more by understanding the business and finding inefficiencies that software can fix. My efforts made the company so successful that their competitors found it was cheaper to sublet the work to SEIDCON rather than doing it themselves.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Designed, prototyped, and demonstrated a way to automate a cumbersome part of the service they provide</li>
+                        <li class="list-group-item">Responsible for reviewing development technologies and determining their use within the company</li>
+                        <li class="list-group-item">Helped with performing security evaluations of US Military Base and Naval vessel IT infrastructure</li>
+                        <li class="list-group-item">Trained a junior programmer in new programming language, tools, and successful methodologies</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">Industrial Development Studios</div>
+                    <div class="year">January 1997 – October 1997</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-offset-1 col-xs-11">
+                    <div class="profession">Application Engineer</div>
+                    <div class="description">
+                      Industrial Development Studios was a startup dedicated to automating manufacturing facilities. They entered a company seeking to understand their workflows and needs, then proposed robotic modifications to assembly lines. I was challenged here by having to deal with rapidly changing technologies, programming languages and environments. Also I was expected to be part of the sales force and deal directly with potential as well as actual customers.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Participated in sales pitches and sales demonstrations</li>
+                        <li class="list-group-item">Ran customer demonstrations</li>
+                        <li class="list-group-item">Helped develop systems to automate factories in multiple languages designed by hardware vendors</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+          <!-- AWARDS -->
+          <div class="box">
+            <h2><i class="fa fa-certificate ico"></i> Awards</h2>
+            <ul id="awards" class="clearfix">
+              <li>
+                <div class="year pull-left">June  2017</div>
+                <div class="description pull-right">
+                  <h3>Agile Alliance</h3>
+                  <p><i class="fa fa-trophy ico"></i> Speaker at Agile Alliance Conference : Facilitating Success Without Unicorns</p>
+                  <p>The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development.</p>
+                </div>
+              </li>
+              <li>
+                <div class="year pull-left">August  2015</div>
+                <div class="description pull-right">
+                  <h3>Agile Alliance</h3>
+                  <p><i class="fa fa-trophy ico"></i> Speaker at Agile Alliance Conference : Mob Programming - My First Team</p>
+                  <p>The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development.</p>
+                </div>
+              </li>
+              <li>
+                <div class="year pull-left">July  2014</div>
+                <div class="description pull-right">
+                  <h3>Agile Alliance</h3>
+                  <p><i class="fa fa-trophy ico"></i> Speaker at Agile Alliance Conference : Tackling Legacy Code</p>
+                  <p>The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development.</p>
+                </div>
+              </li>
+              <li>
+                <div class="year pull-left">August  2010</div>
+                <div class="description pull-right">
+                  <h3>Agile Alliance</h3>
+                  <p><i class="fa fa-trophy ico"></i> Speaker at Agile Alliance Conference : The Worst of Legacy Code - Forensic Development</p>
+                  <p>The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development.</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <!-- VOLUNTEER -->
+          <div class="box">
+            <h2><i class= "fa fa-group ico"></i> Volunteer</h2>
+              <div class="job clearfix">
+                <div class="row">
+                  <div class="details">
+                    <div class="where">Society for Creative Anachronism (SCA), Barony of Calafia</div>
+                    <div class="address">
+                      <a href="http:&#x2F;&#x2F;www.calafia.org&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;www.calafia.org&#x2F;</a>
+                    </div>
+                    <div class="year">September 2014 – June 2015</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-11 pull-right">
+                    <div class="profession">Youth Officer</div>
+                    <div class="description">
+                      Group dedicated to the promotion of Medieval history.
+                      <div class="highlights">Highlights</div>
+                      <ul class="list-group">
+                        <li class="list-group-item">Responsible for coordinating, overseeing and organizing youth events intended to excite and educate.</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-5">
+          <!-- CONTACT -->
+          <div class="box clearfix">
+            <h2><i class="fa fa-bullseye ico"></i> Contact</h2>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class="fa fa-map-marker fa-fw"></span></div>
+              <div class="title pull-right"></div>
+              <div class="description pull-right">Escondido, 92025 US</div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class="fa fa-envelope fa-fw"></span></div>
+              <div class="title only pull-right"><a href="mailto:jason@teamkerney.com" target="_blank">jason@teamkerney.com</a></div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class="fa fa-globe fa-fw"></span></div>
+              <div class="title only pull-right"><a href="https:&#x2F;&#x2F;jason.teamkerney.com" target="_blank">https:&#x2F;&#x2F;jason.teamkerney.com</a></div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class="fa fa-twitter-square fa-fw"></span></div>
+              <div class="title pull-right">Twitter</div>
+              <div class="description pull-right"><a href="https:&#x2F;&#x2F;twitter.com&#x2F;JasonKerney" target="_blank">@JasonKerney</a></div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class=" fa-fw"></span></div>
+              <div class="title pull-right">Linked In</div>
+              <div class="description pull-right"><a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;jasonkerney&#x2F;" target="_blank">In: Jason Kerney</a></div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class=" fa-fw"></span></div>
+              <div class="title pull-right">Git Hub</div>
+              <div class="description pull-right"><a href="https:&#x2F;&#x2F;github.com&#x2F;jason-kerney&#x2F;" target="_blank">Jason Kerney</a></div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class=" fa-fw"></span></div>
+              <div class="title pull-right">NPM</div>
+              <div class="description pull-right"><a href="https:&#x2F;&#x2F;www.npmjs.com&#x2F;~jasonkerney" target="_blank">jasonkerney</a></div>
+            </div>
+            <div class="contact-item">
+              <div class="icon pull-left text-center"><span class=" fa-fw"></span></div>
+              <div class="title pull-right">Nuget</div>
+              <div class="description pull-right"><a href="https:&#x2F;&#x2F;www.nuget.org&#x2F;profiles&#x2F;JasonKerney" target="_blank">JasonKerney</a></div>
+            </div>
+          </div>
+          <!-- SKILLS -->
+          <div class="box">
+            <h2><i class="fa fa-tasks ico"></i> Skills</h2>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Technical Coaching
+                  <span class="skill-level">Master</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Agile</span>
+                <span class= "skill badge">XP</span>
+                <span class= "skill badge">Mob Programming</span>
+                <span class= "skill badge">Pair Programming</span>
+                <span class= "skill badge">Retrospectives</span>
+                <span class= "skill badge">Programming Practice (Katas)</span>
+                <span class= "skill badge">Test Driven Development (TDD)</span>
+                <span class= "skill badge">Behavior Driven Development (BDD)</span>
+                <span class= "skill badge">Code Smells</span>
+                <span class= "skill badge">Legacy Code Remediation</span>
+                <span class= "skill badge">Functional Programming</span>
+                <span class= "skill badge">Object Oriented Programming</span>
+                <span class= "skill badge">Functional Programming</span>
+                <span class= "skill badge">Programming Languages</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  Software Development
+                  <span class="skill-level">Master</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">SOLID</span>
+                <span class= "skill badge">Test Driven Development (TDD)</span>
+                <span class= "skill badge">Behavior Driven Development (BDD)</span>
+                <span class= "skill badge">Legacy Code Remediation</span>
+                <span class= "skill badge">ANSI SQL</span>
+                <span class= "skill badge">Data Normalization</span>
+                <span class= "skill badge">Functional Programming</span>
+                <span class= "skill badge">Object Oriented Programming</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  C#
+                  <span class="skill-level">Master</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "skill badge">Backend Development</span>
+                <span class= "skill badge">Linq</span>
+                <span class= "skill badge">Nuget</span>
+                <span class= "skill badge">1.0 through 7.0</span>
+              </div>
+            </div>
+            <div class="skills clearfix">
+              <div class="item-skills">
+                  F#
+                  <span class="skill-level">Intermediate</span>
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+              </div>
+            </div>
+          </div>
+          <!-- PUBLICATIONS -->
+          <div class="box">
+            <h2><i class="fa fa-book ico"></i> Publications</h2>
+            <div class="publication panel panel-default">
+              <div class="panel-heading">
+                <div class="name panel-title">Experience Report: Mob Programming - My First Team</div>
+              </div>
+              <div class="panel-body">
+                <div class="publisher"><i class= "fa fa-bookmark ico"></i> Agile Aliance</div>
+                <div class="year">08 May  2015</div>
+                <div class="address">
+                  <a href="https:&#x2F;&#x2F;www.agilealliance.org&#x2F;resources&#x2F;experience-reports&#x2F;mob-programming-my-first-team&#x2F;" target= "_blank"><i class="fa fa-globe ico"></i> https:&#x2F;&#x2F;www.agilealliance.org&#x2F;resources&#x2F;experience-reports&#x2F;mob-programming-my-first-team&#x2F;</a>
+                </div>
+                <p>What was it like joing a mob programming team. I had problems, my ego got in my way. I also learned a lot about myself, and inproved my out of work relationships.</p>
+              </div>
+            </div>
+          </div>
+          <!-- LANGUAGES -->
+          <div class="box">
+            <h2><i class="fa fa-language ico"></i> Languages</h2>
+            <ul class="list-group">
+              <li class=" list-group-item">English<span class="skill badge pull-right">Native speaker</span></li>
+            </ul>
+          </div>
+          <!-- HOBBIES -->
+          <div class="box">
+            <h2><i class="fa fa-heart ico"></i> Interests</h2>
+            <div class="interests clearfix">
+              <div class="item-interests">
+                  Writing
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "interest badge">Fiction</span>
+              </div>
+            </div>
+            <div class="interests clearfix">
+              <div class="item-interests">
+                  My Kids
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "interest badge">Teaching Programming</span>
+                <span class= "interest badge">Sports</span>
+                <span class= "interest badge">Teaching</span>
+                <span class= "interest badge">School</span>
+              </div>
+            </div>
+            <div class="interests clearfix">
+              <div class="item-interests">
+                  Programming
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "interest badge">New Languages</span>
+                <span class= "interest badge">Functional</span>
+                <span class= "interest badge">Teaching</span>
+                <span class= "interest badge">Mentoring</span>
+                <span class= "interest badge">Learning</span>
+              </div>
+            </div>
+            <div class="interests clearfix">
+              <div class="item-interests">
+                  Open Source Development
+              </div>
+              <div class="col-sm-offset-1 col-sm-12 clearfix">
+                <span class= "interest badge">Testing Frameworks</span>
+                <span class= "interest badge">Type Systems</span>
+                <span class= "interest badge">JavaScript</span>
+                <span class= "interest badge">C#</span>
+                <span class= "interest badge">F#</span>
+              </div>
+            </div>
+          </div>
+          <div class="box">
+            <h2><i class= "fa fa-check-square ico"></i> References</h2>
+            <blockquote>
+              <div>Jason is a great programmer and has a real passion for process improvement and extreme programming practices. He always puts in full effort, and still finds time to work at making things better. He goes above and beyond what is expected of him and is always willing to help anyone who asks for his assistance.</div>
+              <footer>
+                <a href="" target= "_blank">Woody Zuill</a>
+              </footer>
+            </blockquote><br>
+            <blockquote>
+              <div>Jason is a detail-oriented engineer who focuses on the process of how to complete a project. He brought Agile development to Airgain and implemented it on several projects. He was respected by his peers and always had a good attitude.</div>
+              <footer>
+                <a href="" target= "_blank">Chris van Hammersveld</a>
+              </footer>
+            </blockquote><br>
+            <blockquote>
+              <div>I have studied under Jason for about one years time now, and his methodology of instruction is clear and creative. Jason is able to instruct both basic and advanced concepts in programming as well as Agile and Test Driven Development. I have learned a great deal from him, and look forward to learning more from him as the years progress.</div>
+              <footer>
+                <a href="" target= "_blank">William Getz</a>
+              </footer>
+            </blockquote><br>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- JQUERY -->
+    <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+    <!-- BOOTSTRAP -->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
   </body>
 </html>

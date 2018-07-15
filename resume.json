@@ -6,11 +6,11 @@
     "email": "jason@teamkerney.com",
     "phone": "",
     "website": "https://jason.teamkerney.com",
-    "summary": "Jason first started programming in 1988 when he purchased a Commodore64 and learned Commodore Basic.  He quickly discovered that evenings and weekends disappeared. He has continued to pursue the field of programming with an ever growing interest. He is determined to be the very best he can be and is never satisfied with what he has learned. He has realized that the greatest learining happens when he can share what he has learned successfully.",
+    "summary": "I first started programming in 1988 when he purchased a Commodore64 and learned Commodore Basic.  He quickly discovered that evenings and weekends disappeared. He has continued to pursue the field of programming with an ever-growing interest.\n\nI am a software engineer with more than 21 years of experience gained in a wide array of fields and projects. I enjoy the perspectives gained from work within new situations. My varied domains of work have allowed me a unique insight into the field of computer science.\n\nI hardworking, devoted professional who enjoys finding creative solutions to difficult problems. I enjoy passing on what I know to others through inspiration, teaching, mentoring, and coaching. I am frequently asked to speak at user groups and Code Camps. I was selected multiple times as a speaker to teach techniques that I developed to some of the best computer science engineers, and coaches, in the field at the US Agile Alliance Conferences.",
     "location": {
       "address": "",
-      "postalCode": "CA 92126",
-      "city": "San Diego",
+      "postalCode": "92025",
+      "city": "Escondido",
       "countryCode": "US",
       "region": "CA"
     },
@@ -24,11 +24,6 @@
         "network": "Linked In",
         "username": "In: Jason Kerney",
         "url": "https://www.linkedin.com/in/jasonkerney/"
-      },
-      {
-        "network": "Google Plus",
-        "username": "+Jason Kerney",
-        "url": "https://plus.google.com/u/0/+JasonKerney"
       },
       {
         "network": "Git Hub",
@@ -53,14 +48,17 @@
       "position": "Full Stack Engineer",
       "website": "http://www.hunterindustries.com/",
       "startDate": "2014-01-06",
-      "summary": "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their drive for innovation has kept them as one of the top performers in their industry. Jason has worked to help make their programming efforts world renowned by teaching, coaching and mentorin practices that keep thier bug count to zero and thier time to market unbeatable.",
+      "summary": "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their drive for innovation has kept them as one of the top performers in their industry. I have worked to help make their programming efforts world renowned by teaching, coaching and mentoring practices that keep their bug count to zero and their time to market unbeatable.",
       "highlights": [
         "Spends a quarter of his time coaching technical skills",
         "Reworked the department's onboarding",
         "Reworked the department's employee growth and feedback system",
+        "Coaches around continual growth in technical and interpersonal skills",
         "Runs training sessions on technical practices and ideas",
-        "Trained anouther department in using interpersonal tools to increase safety around thier communications",
-        "Helped start an internal user group to spread knowledge about beneficial software practices used through-out the company."
+        "Trained another department in using interpersonal tools to increase safety around their communications",
+        "Helped start an internal user group to spread knowledge about beneficial software practices used through-out the company",
+        "Coaches Retrospectives",
+        "Leads Retrospectives"
       ]
     },
     {
@@ -69,13 +67,21 @@
       "website": "http://www.bactes.com/",
       "startDate": "2011-05-02",
       "endDate": "2013-12-20",
-      "summary": "Bactes Inc. specializes in the handling of release of medical records for hospitals, clinics and doctors. They take-on the liability risk and paperwork overhead of this task so that medical facilities do not have to. Here Jason was hired on after the company fired all of thier developers. The project had failed to be successfully updated in 3 years. Jason, hired and trained a new team that was able to start doing daily updates with no bugs.",
+      "summary": "",
       "highlights": [
-        "Coached XP practices",
         "Coached in Agile principles and practices",
-        "Saved a failed legacy application. The application was delivered to internal customers but had failed to be successfully modified in 5 years. I was able to bring the application up to weekly deploys that included not only bug fixes but also new features.",
-        "Fixed a broken distributed system that allowed for medical records to be transferred in a secure manor back to headquarters for processing.",
-        "Worked to provide support and guidance during their initial Agile Transformation."
+        "Lead Retrospectives",
+        "Coached on Retrospectives",
+        "Moved to daily, bug free, deployments.",
+        "Delivered in 3 moths a system that had not been delivered in 3 years.",
+        "Built a history of bug free releases",
+        "Trained team in XP practices",
+        "Trained XP practice of \"Test Driven Developmen\"",
+        "Trained XP practice of \"Pair Programming\"",
+        "Trained XP practice of \"Automated Deployment\"",
+        "Trained XP practice of \"Customer Focus\"",
+        "Hired team of developers to work on legacy bug-ridden system.",
+        "Helped with initial guidance on their Agile transformation"
       ]
     },
     {
@@ -84,10 +90,10 @@
       "website": "",
       "startDate": "2010-08-01",
       "endDate": "2011-05-02",
-      "summary": "Neodigm was dedicated to helping impoverished cities by partnering with Schools to write educational grants. These grants tended to focus on professional development for teachers teaching in those school districts. Here Jason was asked to take his technical understanding and train grant writers in modern solutions developed to make software successful. He was training non-programmers how to use the practices that had made him successful in as a progammer.",
+      "summary": "Neodigm was dedicated to helping impoverished cities by partnering with Schools to write educational grants. These grants tended to focus on professional development for teachers teaching in those school districts. I was taking my technical understanding to train grant writers in the practices used to make successful software. Through these techniques Neodigm became the leader in their industry with some of the highest success rates among grant writers and teams.",
       "highlights": [
         "Used skills and tools from software development to allow our team of grant writers to have one of the highest success rates in the nation.",
-        "Used concepts from Agile and Lean development to guide our teams to working very effectively together."
+        "Used concepts from Agile and Lean Development to guide our teams to working very effectively together."
       ]
     },
     {
@@ -96,11 +102,11 @@
       "website": "http://www.airgain.com/",
       "startDate": "2008-07-01",
       "endDate": "2011-05-02",
-      "summary": "Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated innovation in the field which makes them one of most competitive in the field. Here Jason was asked to train a software development team working in embedded systems in software development patterns and testing.",
+      "summary": "Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated innovation in the field which makes them one of most competitive manufactures. I was asked to train a software development team working in embedded systems in software development patterns and testing.",
       "highlights": [
-        "Helped the team use common OO patterns to achieve more from thier proceduarl programming",
-        "Helped design an automated test system for testing of hardware.",
-        "Helped design an embedded driver for their wireless antenna’s that reduced dropped packets."
+        "Trained the team in the use of common Object-Oriented patterns which improved time to delivery",
+        "Helped design an automated test system for testing of hardware",
+        "Helped design an embedded driver for their wireless antenna’s that reduced dropped packets"
       ]
     },
     {
@@ -109,24 +115,39 @@
       "website": "http://www.irdeto.com/",
       "startDate": "2006-09-01",
       "endDate": "2008-07-01",
-      "summary": "irdeto provides software and hardware solutions to media and media distribution companies. Here Jason performed as a lead developer. He was tasked with writing the most crucial and sensitive parts of the system.",
+      "summary": "irdeto provides software and hardware solutions to media and media distribution companies. I performed as a lead developer and was tasked with writing the most crucial and sensitive parts of the system.",
       "highlights": [
-        "Designed and implemented the billing engine for a Customer Sales, Promotions, and Billing product aimed at cable providers.",
-        "Designed and implemented the security architecture for a Customer Sales, Promotions, and Billing product aimed at cable providers.",
-        "Part of the “Fire Fighter” team that had a mandated 24 hour turnaround time for critical bugs discovered in a Customer Sales, Promotions, and Billing product aimed at cable providers. This product had 7 teams of 6 programmers working on it, and the firefighting team was often working on code they had never seen before."
+        "Designed and implemented the billing engine for a Customer Sales, Promotions, and Billing product aimed at cable providers",
+        "Designed and implemented the security architecture for a Customer Sales, Promotions, and Billing product aimed at cable providers",
+        "Part of the “Fire Fighter” team that had a mandated 24-hour turnaround time for critical bugs discovered in a Customer Sales, Promotions, and Billing product aimed at cable providers. This product was developed by over 30 programmers, and the firefighting team was often working on code they had never seen before",
+        "Designed a new way to put legacy code under unit test"
       ]
     },
     {
       "company": "SEIDCON Inc",
-      "position": "Senior Applications Engineer",
+      "position": "Information Assurance Security & Senior Applications Engineer",
       "website": "http://www.seidcon.com/",
       "startDate": "1998-01-01",
       "endDate": "2006-09-01",
-      "summary": "Siedcon Inc. is dedicated to being in the fore front of digital security. They provide an outside consultancy to government agencies. Which provide everything from penetration testing to the design of physical locations to prevent signal leakage. Jason started out as a Junior Programmer and quickly proved to be so much more by understanding the business and finding ineficencies that software can fix. His efforts made the company so successfull that thier competitors found it was cheaper to sublet the work to Siedcon rather then doing it themselves.",
+      "summary": "SEIDCON Inc. is dedicated to being in the fore front of digital security. They provide an outside consultancy to government agencies providing everything from penetration testing to the design of physical locations that prevent signal leakage. I started out as a Junior Programmer and quickly proved to be so much more by understanding the business and finding inefficiencies that software can fix. My efforts made the company so successful that their competitors found it was cheaper to sublet the work to SEIDCON rather than doing it themselves.",
       "highlights": [
-        "Designed and implemented an automated way to generate large formatted documents that encapsulated the work of very specialized experts. This allowed SEIDCON to become so competitive that their leading competitor sub-contracted SEIDCON to do the actual work.",
-        "Discovered that SEICON qualified to become a Microsoft partner and lead the effort to ensure that it happened.",
-        "Responsible for reviewing development technologies and determining their use within the company."
+        "Designed, prototyped, and demonstrated a way to automate a cumbersome part of the service they provide",
+        "Responsible for reviewing development technologies and determining their use within the company",
+        "Helped with performing security evaluations of US Military Base and Naval vessel IT infrastructure",
+        "Trained a junior programmer in new programming language, tools, and successful methodologies"
+      ]
+    },
+    {
+      "company": "Industrial Development Studios",
+      "position": "Application Engineer",
+      "website": "",
+      "startDate": "1997-01-01",
+      "endDate": "1997-10-01",
+      "summary": "Industrial Development Studios was a startup dedicated to automating manufacturing facilities. They entered a company seeking to understand their workflows and needs, then proposed robotic modifications to assembly lines. I was challenged here by having to deal with rapidly changing technologies, programming languages and environments. Also I was expected to be part of the sales force and deal directly with potential as well as actual customers.",
+      "highlights": [
+        "Participated in sales pitches and sales demonstrations",
+        "Ran customer demonstrations",
+        "Helped develop systems to automate factories in multiple languages designed by hardware vendors"
       ]
     }
   ],
@@ -229,7 +250,7 @@
         "Backend Development",
         "Linq",
         "Nuget",
-        "1.0 through 4.6"
+        "1.0 through 7.0"
       ]
     },
     {
