@@ -64,7 +64,7 @@
     {
       "company": "BACTES Inc.",
       "position": "Scrum Master, Senior Programmer",
-      "website": "http://www.bactes.com/",
+      "website": "https://www.sharecare.com/group/bactes",
       "startDate": "2011-05-02",
       "endDate": "2013-12-20",
       "summary": "",
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "company": "Neodigm Inc.",
+      "company": "Neodigm",
       "position": "Co-Founder",
       "website": "",
       "startDate": "2010-08-01",
@@ -179,7 +179,14 @@
       "publisher": "Agile Aliance",
       "releaseDate": "2015-05-08",
       "website": "https://www.agilealliance.org/resources/experience-reports/mob-programming-my-first-team/",
-      "summary": "What was it like joing a mob programming team. I had problems, my ego got in my way. I also learned a lot about myself, and inproved my out of work relationships."
+      "summary": "What was it like joining a mob programming team. I had a lot to learn about what makes a team succeed as a team. In the end I was able to apply what I learned to improve both my in-work and out-of-work relationships with this knowledge."
+    },
+    {
+      "name": "Hyper Teams",
+      "publisher": "Woody Zuill",
+      "releaseDate": "2014-08-08",
+      "website": "http://mobprogramming.org/hyper-teams/",
+      "summary": "I examine the crazy success we were having at Hunter Industries with Mob Programming and break apart a few of the things that lead to that success."
     }
   ],
   "awards": [
