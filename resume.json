@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Robert “Jason” Kerney",
-    "label": "Programmer / Technical Coach",
+    "label": "Technical Coach / Programmer",
     "picture": "https://lh3.googleusercontent.com/-PhcInTMjUFs/SapDre47OOI/AAAAAAAABNY/KVkFm2hIeCU/s165/010_1046.JPG",
     "email": "jason@teamkerney.com",
     "phone": "",
     "website": "https://jason.teamkerney.com",
-    "summary": "Jason first started programming in 1988 when he purchased a Commodore64 and learned Commodore Basic.  He quickly discovered that evenings and weekends disappeared. He has continued to pursue the field of programming with an ever growing interest. He is determined to be the very best he can be and is never satisfied with what he has learned.",
+    "summary": "Jason first started programming in 1988 when he purchased a Commodore64 and learned Commodore Basic.  He quickly discovered that evenings and weekends disappeared. He has continued to pursue the field of programming with an ever growing interest. He is determined to be the very best he can be and is never satisfied with what he has learned. He has realized that the greatest learining happens when he can share what he has learned successfully.",
     "location": {
       "address": "",
       "postalCode": "CA 92126",
@@ -53,11 +53,12 @@
       "position": "Full Stack Engineer",
       "website": "http://www.hunterindustries.com/",
       "startDate": "2014-01-06",
-      "summary": "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their drive for innovation has kept them as one of the top performers in their industry.",
+      "summary": "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their drive for innovation has kept them as one of the top performers in their industry. Jason has worked to help make their programming efforts world renowned by teaching, coaching and mentorin practices that keep thier bug count to zero and thier time to market unbeatable.",
       "highlights": [
         "Spends a quarter of his time coaching technical skills",
         "Reworked the department's onboarding",
         "Reworked the department's employee growth and feedback system",
+        "Runs training sessions on technical practices and ideas",
         "Trained anouther department in using interpersonal tools to increase safety around thier communications",
         "Helped start an internal user group to spread knowledge about beneficial software practices used through-out the company."
       ]
@@ -68,7 +69,7 @@
       "website": "http://www.bactes.com/",
       "startDate": "2011-05-02",
       "endDate": "2013-12-20",
-      "summary": "Bactes Inc. specializes in the handling of release of medical records for hospitals, clinics and doctors. They take-on the liability risk and paperwork overhead of this task so that medical facilities do not have to.",
+      "summary": "Bactes Inc. specializes in the handling of release of medical records for hospitals, clinics and doctors. They take-on the liability risk and paperwork overhead of this task so that medical facilities do not have to. Here Jason was hired on after the company fired all of thier developers. The project had failed to be successfully updated in 3 years. Jason, hired and trained a new team that was able to start doing daily updates with no bugs.",
       "highlights": [
         "Coached XP practices",
         "Coached in Agile principles and practices",
@@ -83,7 +84,7 @@
       "website": "",
       "startDate": "2010-08-01",
       "endDate": "2011-05-02",
-      "summary": "Neodigm was dedicated to helping impoverished cities by partnering with Schools to write educational grants. These grants tended to focus on professional development for teachers teaching in those school districts.",
+      "summary": "Neodigm was dedicated to helping impoverished cities by partnering with Schools to write educational grants. These grants tended to focus on professional development for teachers teaching in those school districts. Here Jason was asked to take his technical understanding and train grant writers in modern solutions developed to make software successful. He was training non-programmers how to use the practices that had made him successful in as a progammer.",
       "highlights": [
         "Used skills and tools from software development to allow our team of grant writers to have one of the highest success rates in the nation.",
         "Used concepts from Agile and Lean development to guide our teams to working very effectively together."
@@ -95,8 +96,9 @@
       "website": "http://www.airgain.com/",
       "startDate": "2008-07-01",
       "endDate": "2011-05-02",
-      "summary": "Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated innovation in the field which makes them one of most competitive in the field.",
+      "summary": "Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated innovation in the field which makes them one of most competitive in the field. Here Jason was asked to train a software development team working in embedded systems in software development patterns and testing.",
       "highlights": [
+        "Helped the team use common OO patterns to achieve more from thier proceduarl programming",
         "Helped design an automated test system for testing of hardware.",
         "Helped design an embedded driver for their wireless antenna’s that reduced dropped packets."
       ]
@@ -107,11 +109,11 @@
       "website": "http://www.irdeto.com/",
       "startDate": "2006-09-01",
       "endDate": "2008-07-01",
-      "summary": "irdeto provides software and hardware solutions to media and media distribution companies.",
+      "summary": "irdeto provides software and hardware solutions to media and media distribution companies. Here Jason performed as a lead developer. He was tasked with writing the most crucial and sensitive parts of the system.",
       "highlights": [
         "Designed and implemented the billing engine for a Customer Sales, Promotions, and Billing product aimed at cable providers.",
         "Designed and implemented the security architecture for a Customer Sales, Promotions, and Billing product aimed at cable providers.",
-        "Part of the “Fire Fighter” team that had a mandated 24 hour turnaround time for critical bugs discovered in a Customer Sales, Promotions, and Billing product aimed at cable providers. This product had 7 teams of 6 programmers working on it."
+        "Part of the “Fire Fighter” team that had a mandated 24 hour turnaround time for critical bugs discovered in a Customer Sales, Promotions, and Billing product aimed at cable providers. This product had 7 teams of 6 programmers working on it, and the firefighting team was often working on code they had never seen before."
       ]
     },
     {
@@ -120,7 +122,7 @@
       "website": "http://www.seidcon.com/",
       "startDate": "1998-01-01",
       "endDate": "2006-09-01",
-      "summary": "Siedcon Inc. is dedicated to being in the fore front of digital security. They provide an outside consultancy to government agencies. The provide everything from penetration testing to the design of physical locations.",
+      "summary": "Siedcon Inc. is dedicated to being in the fore front of digital security. They provide an outside consultancy to government agencies. Which provide everything from penetration testing to the design of physical locations to prevent signal leakage. Jason started out as a Junior Programmer and quickly proved to be so much more by understanding the business and finding ineficencies that software can fix. His efforts made the company so successfull that thier competitors found it was cheaper to sublet the work to Siedcon rather then doing it themselves.",
       "highlights": [
         "Designed and implemented an automated way to generate large formatted documents that encapsulated the work of very specialized experts. This allowed SEIDCON to become so competitive that their leading competitor sub-contracted SEIDCON to do the actual work.",
         "Discovered that SEICON qualified to become a Microsoft partner and lead the effort to ensure that it happened.",
@@ -161,55 +163,49 @@
   ],
   "awards": [
     {
-      "title": "Speaker at Agile Alliance Conference",
+      "title": "Speaker at Agile Alliance Conference : Facilitating Success Without Unicorns",
       "date": "2017-06-18",
       "awarder": "Agile Alliance",
       "summary": "The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development."
     },
     {
-      "title": "Speaker at Agile Alliance Conference",
-      "date": "2010-08-13",
+      "title": "Speaker at Agile Alliance Conference : Mob Programming - My First Team",
+      "date": "2015-08-03",
       "awarder": "Agile Alliance",
       "summary": "The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development."
     },
     {
-      "title": "Speaker at Agile Alliance Conference",
+      "title": "Speaker at Agile Alliance Conference : Tackling Legacy Code",
       "date": "2014-07-28",
       "awarder": "Agile Alliance",
       "summary": "The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development."
     },
     {
-      "title": "Speaker at Agile Alliance Conference",
-      "date": "2015-08-03",
+      "title": "Speaker at Agile Alliance Conference : The Worst of Legacy Code - Forensic Development",
+      "date": "2010-08-13",
       "awarder": "Agile Alliance",
       "summary": "The Agile Alliance Conference is a highly competitive conference to speak at. This conference is dedicated to the promotion and education about Agile practices primarily in software development."
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Intermediate",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Microsoft MVC"
-      ]
-    },
-    {
       "name": "Technical Coaching",
-      "level": "Intermediate",
+      "level": "Master",
       "keywords": [
+        "Agile",
         "XP",
-        "Test Driven Development (TDD)",
-        "Behavior Driven Development (BDD)",
-        "Programming Languages",
-        "Code Smells",
         "Mob Programming",
         "Pair Programming",
+        "Retrospectives",
+        "Programming Practice (Katas)",
+        "Test Driven Development (TDD)",
+        "Behavior Driven Development (BDD)",
+        "Code Smells",
         "Legacy Code Remediation",
         "Functional Programming",
-        "Object Oriented Programming"
+        "Object Oriented Programming",
+        "Functional Programming",
+        "Programming Languages"
       ]
     },
     {
@@ -222,33 +218,23 @@
         "Legacy Code Remediation",
         "ANSI SQL",
         "Data Normalization",
-        "Functional Programming"
+        "Functional Programming",
+        "Object Oriented Programming"
       ]
     },
     {
-      "name": "Microsoft Development",
+      "name": "C#",
       "level": "Master",
       "keywords": [
-        ".Net Framework",
-        "C#",
-        "F#",
+        "Backend Development",
         "Linq",
-        "MVC"
+        "Nuget",
+        "1.0 through 4.6"
       ]
     },
     {
-      "name": "Lisp",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Go Lang",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Rust",
-      "level": "Beginner",
+      "name": "F#",
+      "level": "Intermediate",
       "keywords": []
     }
   ],
@@ -282,6 +268,16 @@
         "Teaching",
         "Mentoring",
         "Learning"
+      ]
+    },
+    {
+      "name": "Open Source Development",
+      "keywords": [
+        "Testing Frameworks",
+        "Type Systems",
+        "JavaScript",
+        "C#",
+        "F#"
       ]
     }
   ],
