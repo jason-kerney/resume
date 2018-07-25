@@ -6,7 +6,7 @@
     "email": "jason@teamkerney.com",
     "phone": "",
     "website": "https://jason.teamkerney.com",
-    "summary": "I first started programming in 1988 when he purchased a Commodore64 and learned Commodore Basic.  He quickly discovered that evenings and weekends disappeared. He has continued to pursue the field of programming with an ever-growing interest.\n\nI am a software engineer with more than 21 years of experience gained in a wide array of fields and projects. I enjoy the perspectives gained from work within new situations. My varied domains of work have allowed me a unique insight into the field of computer science.\n\nI hardworking, devoted professional who enjoys finding creative solutions to difficult problems. I enjoy passing on what I know to others through inspiration, teaching, mentoring, and coaching. I am frequently asked to speak at user groups and Code Camps. I was selected multiple times as a speaker to teach techniques that I developed to some of the best computer science engineers, and coaches, in the field at the US Agile Alliance Conferences.",
+    "summary": "I first started programming in 1988 when I purchased a Commodore64 and learned Commodore Basic.  I quickly discovered that evenings and weekends disappeared. I have continued to pursue the field of programming with an ever-growing interest. I am a software engineer with more than 20 years of experience gained in a wide array of fields and projects. I enjoy the perspectives gained from work within new situations. My varied domains of work have allowed me a unique insight into the field of computer science.\nI am a hardworking, devoted professional who enjoys finding creative solutions to difficult problems. I enjoy passing on what I know to others through inspiration, teaching, mentoring, and coaching. I am frequently asked to speak at user groups and Code Camps. I was selected multiple times to be a speaker at the US Agile Alliance Conference to teach techniques that I developed to some of the best computer science engineers and coaches in the field.",
     "location": {
       "address": "",
       "postalCode": "92025",
@@ -48,26 +48,26 @@
       "position": "Full Stack Engineer",
       "website": "http://www.hunterindustries.com/",
       "startDate": "2014-01-06",
-      "summary": "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality combined with their drive for innovation has kept them as one of the top performers in their industry. I have worked to help make their programming efforts world renowned by teaching, coaching and mentoring practices that keep their bug count to zero and their time to market unbeatable.",
+      "summary": "Hunter Industries is a worldwide organization providing irrigation, landscape lighting and custom molding. Their attention to quality, combined with their drive for innovation, has kept them as one of the top performers in their industry. I have worked to help make their programming efforts world-renowned by teaching, coaching and mentoring practices that keep their bug count to zero and their time to market unbeatable.",
       "highlights": [
-        "Spends a quarter of his time coaching technical skills",
+        "Spend a quarter of my time coaching technical skills",
         "Reworked the department's onboarding",
         "Reworked the department's employee growth and feedback system",
-        "Coaches around continual growth in technical and interpersonal skills",
-        "Runs training sessions on technical practices and ideas",
+        "Coach around continual growth in technical and interpersonal skills",
+        "Run training sessions on technical practices and ideas",
         "Trained another department in using interpersonal tools to increase safety around their communications",
-        "Helped start an internal user group to spread knowledge about beneficial software practices used through-out the company",
-        "Coaches Retrospectives",
-        "Leads Retrospectives"
+        "Helped start an internal user group to spread knowledge about beneficial software practices used throughout the company",
+        "Coach on Retrospectives",
+        "Lead Retrospectives"
       ]
     },
     {
       "company": "BACTES Inc.",
-      "position": "Scrum Master, Senior Programmer",
+      "position": "Senior Programmer/Scrum Master/Coach",
       "website": "https://www.sharecare.com/group/bactes",
       "startDate": "2011-05-02",
       "endDate": "2013-12-20",
-      "summary": "",
+      "summary": "Bactes Inc. specializes in the handling and release of medical records for hospitals, clinics, and doctors. They take on the liability risk and paperwork overhead of this task so that medical facilities do not have to. I was hired on after the company fired all their developers. Their software had failed to be successfully updated in 3 years. I hired and trained a new team that was able to start doing daily updates with no bugs.",
       "highlights": [
         "Coached in Agile principles and practices",
         "Lead Retrospectives",
@@ -90,7 +90,7 @@
       "website": "",
       "startDate": "2010-08-01",
       "endDate": "2011-05-02",
-      "summary": "Neodigm was dedicated to helping impoverished cities by partnering with Schools to write educational grants. These grants tended to focus on professional development for teachers teaching in those school districts. I was taking my technical understanding to train grant writers in the practices used to make successful software. Through these techniques Neodigm became the leader in their industry with some of the highest success rates among grant writers and teams.",
+      "summary": "Neodigm was dedicated to helping impoverished students by partnering with schools to write educational grants. These grants tended to focus on professional development for teachers teaching in those school districts. I shared my technical understanding to train grant writers in the practices used to make successful software. Through these techniques Neodigm became a leader in their industry with some of the highest success rates among grant writers and teams.",
       "highlights": [
         "Used skills and tools from software development to allow our team of grant writers to have one of the highest success rates in the nation.",
         "Used concepts from Agile and Lean Development to guide our teams to working very effectively together."
@@ -102,15 +102,15 @@
       "website": "http://www.airgain.com/",
       "startDate": "2008-07-01",
       "endDate": "2011-05-02",
-      "summary": "Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated innovation in the field which makes them one of most competitive manufactures. I was asked to train a software development team working in embedded systems in software development patterns and testing.",
+      "summary": "Airgain makes high quality embedded wireless antennas. These antennas are rigorously tested and compared to ensure only the best designs are sold. Airgain is dedicated to innovation in the field which makes them one of most competitive manufactures of antennas. I was asked to train a software development team working in embedded systems in software development patterns and testing.",
       "highlights": [
         "Trained the team in the use of common Object-Oriented patterns which improved time to delivery",
         "Helped design an automated test system for testing of hardware",
-        "Helped design an embedded driver for their wireless antenna’s that reduced dropped packets"
+        "Helped design an embedded driver for their wireless antennas that reduced dropped packets"
       ]
     },
     {
-      "company": "irdeto",
+      "company": "IBS Interprit / irdeto",
       "position": "Senior Software Engineer",
       "website": "http://www.irdeto.com/",
       "startDate": "2006-09-01",
@@ -118,8 +118,8 @@
       "summary": "irdeto provides software and hardware solutions to media and media distribution companies. I performed as a lead developer and was tasked with writing the most crucial and sensitive parts of the system.",
       "highlights": [
         "Designed and implemented the billing engine for a Customer Sales, Promotions, and Billing product aimed at cable providers",
-        "Designed and implemented the security architecture for a Customer Sales, Promotions, and Billing product aimed at cable providers",
-        "Part of the “Fire Fighter” team that had a mandated 24-hour turnaround time for critical bugs discovered in a Customer Sales, Promotions, and Billing product aimed at cable providers. This product was developed by over 30 programmers, and the firefighting team was often working on code they had never seen before",
+        "Designed and implemented the security architecture for their main product",
+        "Functioned as part of the “Fire Fighter” team that had a mandated 24-hour turnaround time for critical bugs discovered in their main product. This product was developed by over 30 programmers, and the firefighting team was often working on code they had never seen before.",
         "Designed a new way to put legacy code under unit test"
       ]
     },
@@ -129,7 +129,7 @@
       "website": "http://www.seidcon.com/",
       "startDate": "1998-01-01",
       "endDate": "2006-09-01",
-      "summary": "SEIDCON Inc. is dedicated to being in the fore front of digital security. They provide an outside consultancy to government agencies providing everything from penetration testing to the design of physical locations that prevent signal leakage. I started out as a Junior Programmer and quickly proved to be so much more by understanding the business and finding inefficiencies that software can fix. My efforts made the company so successful that their competitors found it was cheaper to sublet the work to SEIDCON rather than doing it themselves.",
+      "summary": "SEIDCON Inc. is dedicated to being in the forefront of digital security. They provide an outside consultancy to government agencies providing everything from penetration testing to the design of physical locations that prevent signal leakage. I started out as a Junior Programmer and quickly proved to be so much more by understanding the business and finding inefficiencies that software can fix. My efforts made the company so successful that their competitors found it was cheaper to sublet the work to SEIDCON rather than doing it themselves.",
       "highlights": [
         "Designed, prototyped, and demonstrated a way to automate a cumbersome part of the service they provide",
         "Responsible for reviewing development technologies and determining their use within the company",
@@ -143,7 +143,7 @@
       "website": "",
       "startDate": "1997-01-01",
       "endDate": "1997-10-01",
-      "summary": "Industrial Development Studios was a startup dedicated to automating manufacturing facilities. They entered a company seeking to understand their workflows and needs, then proposed robotic modifications to assembly lines. I was challenged here by having to deal with rapidly changing technologies, programming languages and environments. Also I was expected to be part of the sales force and deal directly with potential as well as actual customers.",
+      "summary": "Industrial Development Studios was a startup dedicated to automating manufacturing facilities. They entered a company seeking to understand their workflows and needs, then proposed robotic modifications to assembly lines. I was challenged here by having to deal with rapidly changing technologies, programming languages and environments. Also, I was expected to be part of the sales force and deal directly with potential as well as actual customers.",
       "highlights": [
         "Participated in sales pitches and sales demonstrations",
         "Ran customer demonstrations",
